@@ -29,7 +29,7 @@ bar_data = df.groupby(["City"])['Price'].sum().reset_index()
  # Bedroom Vs Price
 line_data = df.groupby(['Bedroom','City'])['Price'].mean().reset_index()
  # Face Vs Price
-div_data = df.groupby(['Face'])['Price'].mean().to_frame().reset_index()
+div_data = df.groupby(['Face'])['Price'].sum().to_frame().reset_index()
  #City vs Number of properties listed
 bar_data2 = df["City"].value_counts().to_frame().reset_index()
 bar_data2.columns=['City','Price']
