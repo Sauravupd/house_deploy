@@ -64,7 +64,7 @@ app.layout = html.Div(children=[ html.H1('Nepal Property Listing Visualization',
     
                                 html.Div([
                                         html.Div([dcc.Graph(figure=bar_fig)], id='plot2'),
-                                        html.Div([ line_fig], id='plot3')
+                                        html.Div([ dcc.Graph(figure=line_fig)], id='plot3')
                                 ], style={'display': 'flex'}),
                                 
                                 
