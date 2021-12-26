@@ -1,0 +1,909 @@
+,City,Price,Bedroom,Bathroom,Face,Road,Amenities,Unit,New_Area,Road_Width,Number of Amenities
+10,Pokhara,32000000,4,5,South West,15 Feet / Blacktopped,"[""'Parking'"", "" 'Backyard'""]",Aana,14.0,15,2
+12,Kathmandu,15000000,2,2,South,12 Feet / Gravelled,"[""'Parking'""]",Aana,5.0,12,1
+13,Kathmandu,52500000,5,5,South East,20 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'"", "" 'Modular Kitchen'"", "" 'Microwave'"", "" 'Garden'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'""]",Aana,8.0,20,9
+14,Kathmandu,26500000,6,6,East,13 Feet / Paved,"[""'Parking'""]",Aana,4.0,13,1
+15,Kathmandu,25500000,6,6,East,13 Feet / Gravelled,"[""'Parking'""]",Aana,4.0,13,1
+17,Kathmandu,18500000,4,4,South,13 Feet,"[""'Parking'""]",Aana,6.0,13,1
+18,Kathmandu,62000000,7,4,East,0 Feet,[''],Aana,10.0,0,1
+22,Kathmandu,145000000,95,40,East,20 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'""]",Aana,21.0,20,2
+23,Kathmandu,55000000,5,6,South,20 Feet / Gravelled,"[""'Parking'"", "" 'Garden'""]",Aana,19.0,20,2
+25,Kathmandu,37000000,6,6,South East,32 Feet,"[""'Parking'"", "" 'Garage'""]",Aana,6.1,32,2
+26,Kathmandu,102500000,6,6,East,13 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Air Condition'"", "" 'Frontyard'"", "" 'Fencing'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Well'""]",Aana,19.0,13,13
+28,Kathmandu,58500000,6,6,East,16 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'""]",Aana,6.5,16,2
+32,Kathmandu,130000000,5,6,East,15 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'"", "" 'Air Condition'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Fencing'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'""]",Aana,10.0,15,17
+33,Kathmandu,105000000,8,8,East,15 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'""]",Aana,21.0,15,2
+34,Kathmandu,105000000,5,5,South,15 Feet / Gravelled,"[""'Parking'"", "" 'Garage'"", "" 'Balcony'"", "" 'Backyard'"", "" 'Deck'"", "" 'Frontyard'"", "" 'Fencing'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'Washing Machine'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'CCTV'"", "" 'Kids Playground'"", "" 'Store Room'""]",Ropani,64.0,15,19
+36,Kathmandu,40000000,7,7,East,15 Feet / Blacktopped,"[""'Parking'""]",Aana,7.0,15,1
+37,Kathmandu,26500000,6,6,West,14 Feet / Blacktopped,"[""'Parking'""]",Aana,5.0,14,1
+39,Kathmandu,22500000,6,6,North East,18 Feet / Blacktopped,"[""'Parking'""]",Aana,3.1,18,1
+40,Kathmandu,60000000,6,6,South East,15 Feet / Soil Stabilized,"[""'Parking'""]",Aana,11.0,15,1
+41,Kathmandu,250000000,6,5,East,15 Feet,"[""'Parking'"", "" 'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Solar Water'""]",Aana,30.0,15,8
+42,Kathmandu,40000000,9,6,East,13 Feet / Paved,"[""'Parking'""]",Aana,9.0,13,1
+43,Kathmandu,30000000,6,5,East,15 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'"", "" 'Balcony'"", "" 'Modular Kitchen'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,3.5,15,9
+44,Kathmandu,65000000,6,6,East,14 Feet / Gravelled,"[""'Parking'"", "" 'Garage'"", "" 'Air Condition'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,12.0,14,10
+45,Kathmandu,33000000,5,6,North,13 Feet / Blacktopped,"[""'Parking'"", "" 'Garden'""]",Aana,5.0,13,2
+46,Kathmandu,30500000,5,5,West,13 Feet / Blacktopped,"[""'Parking'""]",Aana,4.0,13,1
+48,Kathmandu,28000000,6,6,South East,13 Feet / Blacktopped,"[""'Parking'""]",Aana,4.0,13,1
+49,Kathmandu,41000000,10,5,South East,26 Feet / Blacktopped,"[""'Parking'""]",Aana,4.0,26,1
+50,Kathmandu,27000000,6,6,East,14 Feet / Gravelled,"[""'Parking'"", "" 'Garage'""]",Aana,4.5,14,2
+51,Kathmandu,22000000,5,5,East,13 Feet / Soil Stabilized,"[""'Parking'""]",Aana,3.1,13,1
+52,Kathmandu,37000000,5,5,South East,15 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'"", "" 'Frontyard'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,8.0,15,7
+54,Kathmandu,22500000,5,3,East,13 Feet,"[""'Parking'"", "" 'Balcony'"", "" 'Water Well'"", "" 'Store Room'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'TV Cable'""]",Aana,4.0,13,9
+55,Bhaktapur,29000000,3,3,North,20 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'"", "" 'Air Condition'"", "" 'Balcony'"", "" 'Deck'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'Swimming Pool'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Internet'""]",Aana,4.5,20,17
+58,Kathmandu,37500000,5,5,South East,0 Feet,"[""'Parking'"", "" 'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Internet'"", "" 'Store Room'"", "" 'Wifi'""]",Aana,5.0,0,10
+59,Kathmandu,13000000,2,1,West,0 Feet,"[""'Parking'""]",Aana,3.1,0,1
+63,Bhaktapur,32500000,4,4,South,20 Feet / Paved,"[""'Parking'"", "" 'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Electricity Backup'"", "" 'Internet'"", "" 'Store Room'""]",Aana,7.0,20,13
+67,Chitwan,7700000,4,2,East,16 Feet / Gravelled,"[""'Backyard'"", "" 'Balcony'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Water Tank'"", "" 'Parking'""]",Aana,6.0,16,6
+84,Lalitpur,21000000,0,3,East,12 Feet,"[""'Parking'"", "" 'Balcony'"", "" 'Drainage'"", "" 'Garage'"", "" 'Frontyard'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Modular Kitchen'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Internet'""]",Aana,0.4,12,11
+96,Kathmandu,45000000,4,4,South West,22 Feet,"[""'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'Water Supply'"", "" 'TV Cable'"", "" 'Lawn'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'Backyard'"", "" 'Deck'"", "" 'Drainage'"", "" 'Wifi'"", "" 'Fencing'""]",Aana,11.0,22,13
+101,Kathmandu,3000000,0,0,West,16 Feet / Paved,[''],Aana,12.0,16,1
+103,Kathmandu,2350000,0,0,South,13 Feet / Blacktopped,[''],Aana,5.0,13,1
+106,Kathmandu,200000,0,0,North West,20 Feet,[''],Aana,10.0,20,1
+107,Kathmandu,3500000,0,0,South,12 Feet / Paved,[''],Aana,6.1,12,1
+109,Kathmandu,2800000,0,0,West,20 Feet / Blacktopped,[''],Aana,18.0,20,1
+110,Kathmandu,3500000,0,0,East,30 Feet / Blacktopped,[''],Aana,18.0,30,1
+117,Kathmandu,2600000,0,0,East,15 Feet / Blacktopped,[''],Aana,41.0,15,1
+118,Kathmandu,3800000,0,0,East,30 Feet / Blacktopped,[''],Ropani,16.0,30,1
+119,Kathmandu,3500000,0,0,South,30 Feet / Blacktopped,[''],Aana,10.0,30,1
+120,Kathmandu,1000000,0,0,North,26 Feet,"[""'Parking'""]",Aana,3.0,26,1
+121,Kathmandu,3500000,0,0,East,32 Feet,[''],Aana,8.1,32,1
+122,Kathmandu,4200000,0,0,South,15 Feet,[''],Aana,8.0,15,1
+123,Kathmandu,6000000,0,0,East,35 Feet / Blacktopped,[''],Ropani,128.0,35,1
+127,Lalitpur,3500000,0,0,South West,7 Meter / Gravelled,[''],Aana,4.5,7,1
+132,Kathmandu,5700000,0,0,East,14 Feet,[''],Aana,16.0,14,1
+136,Kathmandu,2500000,0,0,South,15 Feet / Blacktopped,[''],Aana,9.0,15,1
+138,Kathmandu,4000000,0,0,North East,15 Feet / Soil Stabilized,[''],Ropani,64.0,15,1
+139,Kathmandu,250000,6,7,South East,16 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'"", "" 'Air Condition'"", "" 'Backyard'"", "" 'Deck'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Fencing'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Microwave'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'""]",Aana,21.0,16,19
+140,Kathmandu,5700000,0,0,East,15 Feet / Blacktopped,[''],Aana,4.0,15,1
+141,Kathmandu,3000000,0,0,South West,13 Feet / Soil Stabilized,[''],Aana,5.0,13,1
+152,Kathmandu,600000,5,4,East,0 Feet,"[""'Parking'"", "" 'Balcony'"", "" 'Modular Kitchen'"", "" 'Solar Water'"", "" 'Garage'"", "" 'Garden'""]",Ropani,80.0,0,6
+153,Kathmandu,3000000,0,0,North,0 Feet,[''],Aana,5.0,0,1
+171,Lalitpur,120000,5,4,East,0 Feet,[''],Aana,10.0,0,1
+173,Kathmandu,3500000,0,0,East,14 Feet / Gravelled,[''],Ropani,16.0,14,1
+176,Kathmandu,275000,0,0,East,0 Feet,"[""'Parking'"", "" 'Balcony'"", "" 'Garden'""]",Ropani,24.0,0,3
+179,Kathmandu,3500000,0,0,South West,16 Feet,[''],Aana,1.0,16,1
+180,Kathmandu,760000,0,0,North West,0 Feet,[''],Aana,1.0,0,1
+199,Kathmandu,200000,6,4,East,0 Feet,[''],Aana,10.0,0,1
+203,Kathmandu,200000,5,4,East,0 Feet,"[""'Parking'""]",Aana,25.0,0,1
+204,Makwanpur,300000,0,0,North West,14 Feet / Gravelled,[''],Ropani,144.0,14,1
+211,Kathmandu,3000000,0,0,East,13 Feet / Soil Stabilized,[''],Aana,4.0,13,1
+213,Kathmandu,32500000,11,0,East,20 Feet / Blacktopped,[''],Aana,4.5,20,1
+215,Nawalpur,11000000,3,4,East,15 Feet / Blacktopped,"[""'Parking'"", "" 'Balcony'"", "" 'Fencing'""]",Aana,4.0,15,3
+216,Kathmandu,17000000,0,2,South,20 Feet / Blacktopped,"[""'Parking'""]",Aana,3.1,20,1
+219,Lalitpur,900000,0,0,East,10 Feet,[''],Aana,5.0,10,1
+223,Kathmandu,1300000,0,0,North,20 Feet / Blacktopped,[''],Aana,14.0,20,1
+225,Lalitpur,300000,8,5,East,0 Feet,"[""'Parking'"", "" 'Balcony'""]",Aana,12.0,0,2
+227,Kathmandu,50000000,3,3,South,20 Feet / Blacktopped,"[""'Parking'""]",Ropani,80.0,20,1
+228,Chitwan,10500000,4,2,South,13 Feet / Blacktopped,"[""'Water Supply'"", "" 'Drainage'"", "" 'Water Tank'""]",Aana,4.0,13,3
+229,Kathmandu,30000000,6,5,North,14 Feet / Gravelled,"[""'Parking'"", "" 'Water Tank'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Balcony'""]",Aana,5.0,14,6
+230,Lalitpur,31500000,4,4,South,12 Feet / Paved,"[""'Garage'"", "" 'Garden'"", "" 'Balcony'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Store Room'"", "" 'Electricity Backup'""]",Aana,4.3,12,7
+233,Kathmandu,57500000,4,5,South West,20 Feet / Paved,"[""'Parking'"", "" 'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Security Staff'"", "" 'Maintenance'""]",Aana,8.0,20,11
+243,Kathmandu,25000000,6,4,East,20 Feet / Paved,"[""'Parking'"", "" 'Balcony'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Internet'"", "" 'Kids Playground'""]",Aana,2.5,20,7
+256,Kathmandu,37000000,5,6,South,20 Feet / Blacktopped,"[""'Garage'"", "" 'Parking'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Solar Water'""]",Aana,4.0,20,6
+269,Kathmandu,11000000,10,3,East,3 Feet,"[""'Electricity Backup'"", "" 'Solar Water'""]",Aana,4.0,3,2
+274,Kathmandu,2400000,0,0,South East,12 Feet / Gravelled,[''],Aana,5.0,12,1
+276,Kathmandu,2700000,0,0,West,13 Feet / Blacktopped,[''],Aana,13.0,13,1
+277,Kathmandu,2300000,0,0,East,20 Feet / Blacktopped,[''],Aana,6.0,20,1
+278,Kathmandu,37000000,5,5,South,20 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'""]",Aana,4.0,20,7
+279,Kathmandu,45000000,6,6,East,20 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Solar Water'""]",Aana,6.0,20,6
+281,Lalitpur,39000000,2,1,East,0 Feet,"[""'Fencing'"", "" 'Frontyard'"", "" 'Backyard'"", "" 'Garden'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Parking'"", "" 'Water Tank'"", "" 'Lawn'""]",Aana,11.0,0,9
+282,Kathmandu,17000000,5,3,East,12 Feet / Paved,"[""'Balcony'"", "" 'Parking'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,3.75,12,5
+287,Lalitpur,25000000,7,6,North East,13 Feet / Blacktopped,"[""'Backyard'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Parking'""]",Aana,4.75,13,10
+288,Bhaktapur,12500000,0,0,East,16 Feet,"[""'Parking'""]",Aana,3.0,16,1
+289,Lalitpur,21000000,4,5,South West,20 Feet / Gravelled,[''],Aana,4.0,20,1
+306,Kathmandu,1650000,0,0,West,28 Feet,[''],Aana,22.0,28,1
+307,Kathmandu,45000000,5,6,North East,13 Feet / Paved,"[""'Garage'"", "" 'Balcony'"", "" 'Air Condition'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Parking'""]",Aana,6.0,13,10
+308,Kathmandu,22500000,6,5,East,14 Feet / Gravelled,"[""'Garage'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Water Supply'""]",Aana,3.1,14,5
+314,Kathmandu,23500000,6,5,East,13 Feet / Paved,"[""'Garage'""]",Aana,3.0,13,1
+315,Kathmandu,102500000,6,6,East,13 Feet / Blacktopped,"[""'Garage'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Washing Machine'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Kids Playground'"", "" 'Security Staff'"", "" 'Store Room'""]",Aana,19.0,13,15
+319,Kathmandu,32500000,5,5,East,13 Feet / Blacktopped,"[""'Garage'""]",Aana,4.0,13,1
+321,Kathmandu,24000000,7,8,South East,13 Feet / Gravelled,"[""'Parking'""]",Aana,5.0,13,1
+323,Kathmandu,2200000,1,1,East,10 Feet / Gravelled,"[""'Garden'"", "" 'Water Supply'"", "" 'Parking'""]",Aana,12.5,10,3
+324,Kathmandu,16800000,5,5,North East,14 Feet / Gravelled,"[""'Parking'""]",Aana,3.0,14,1
+325,Kathmandu,34000000,6,6,North East,30 Feet / Blacktopped,"[""'Garage'"", "" 'Parking'""]",Aana,5.5,30,2
+326,Kathmandu,22500000,5,5,South East,14 Feet / Gravelled,"[""'Parking'""]",Aana,3.0,14,1
+330,Kathmandu,42500000,5,6,South East,14 Feet / Gravelled,"[""'Garage'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Store Room'""]",Aana,12.0,14,10
+331,Kathmandu,790000,6,7,East,24 Feet / Blacktopped,"[""'Garage'"", "" 'Backyard'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Fencing'"", "" 'Garden'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Security Staff'"", "" 'Store Room'""]",Aana,80.0,24,14
+333,Kathmandu,1300000,0,0,East,0 Feet,[''],Aana,7.2,0,1
+334,Kathmandu,15000000,3,3,West,4 Feet,"[""'Garden'""]",Aana,8.2,4,1
+339,Kathmandu,500000,22,4,East,0 Feet,[''],Aana,10.0,0,1
+341,Kathmandu,15000000,4,4,West,0 Feet,"[""'Garage'""]",Aana,3.2,0,1
+344,Kathmandu,23500000,0,0,North East,0 Feet / Alley,[''],Aana,3.0,0,1
+355,Kathmandu,750000,0,0,East,0 Feet,[''],Aana,4.0,0,1
+356,Lalitpur,30000000,4,4,East,0 Feet,"[""'Modular Kitchen'"", "" 'Swimming Pool'"", "" 'Solar Water'"", "" 'TV Cable'"", "" 'Garden'"", "" 'Balcony'""]",Aana,3.0,0,6
+357,Kathmandu,81000000,6,6,East,15 Feet / Gravelled,"[""'Lawn'"", "" 'Garage'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Store Room'"", "" 'Kids Playground'"", "" 'Maintenance'"", "" 'Parking'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,21.0,15,15
+358,Kathmandu,55000000,5,5,North,22 Feet / Blacktopped,"[""'Garage'"", "" 'Lawn'"", "" 'Backyard'"", "" 'Fencing'"", "" 'Garden'"", "" 'Frontyard'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Solar Water'"", "" 'Drainage'""]",Aana,12.0,22,10
+360,Lalitpur,273258,4,0,East,10 Feet / Paved,"[""'Garage'"", "" 'Air Condition'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'Water Tank'"", "" 'Parking'"", "" 'Solar Water'"", "" 'Water Supply'""]",Aana,23.0,10,13
+361,Kathmandu,30000000,4,3,East,0 Feet,[''],Aana,3.0,0,1
+362,Kathmandu,225000,0,3,West,16 Feet / Blacktopped,"[""'Balcony'"", "" 'Backyard'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,7.0,16,6
+363,Bhaktapur,375000,0,0,East,0 Feet,[''],Ropani,62.4,0,1
+364,Kathmandu,17500000,5,4,North,15 Feet,"[""'Backyard'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Parking'"", "" 'Water Tank'"", "" 'Internet'"", "" 'Solar Water'"", "" 'Electricity Backup'"", "" 'Water Supply'"", "" 'Cafeteria'"", "" 'CCTV'""]",Aana,3.25,15,16
+365,Kathmandu,1450000,0,0,South East,13 Feet,[''],Aana,4.5,13,1
+367,Kathmandu,9500000,3,1,South,13 Feet / Gravelled,[''],Aana,3.0,13,1
+369,Kathmandu,2900000,0,0,East,20 Feet / Gravelled,[''],Aana,14.0,20,1
+371,Lalitpur,20000000,3,3,East,0 Feet,"[""'Parking'""]",Aana,3.0,0,1
+373,Bhaktapur,1500000,0,0,South,20 Feet / Gravelled,[''],Ropani,24.0,20,1
+375,Kathmandu,4100000,0,0,South East,18 Feet / Blacktopped,[''],Aana,16.0,18,1
+379,Kathmandu,200000,5,4,South,0 Feet,"[""'Internet'"", "" 'Modular Kitchen'"", "" 'Solar Water'"", "" 'TV Cable'"", "" 'Garden'"", "" 'Water Tank'"", "" 'Wifi'"", "" 'Kids Playground'"", "" 'Balcony'"", "" 'Microwave'"", "" 'Drainage'"", "" 'CCTV'""]",Aana,12.0,0,12
+399,Kathmandu,65000000,5,6,South East,22 Feet / Blacktopped,"[""'Garage'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Maintenance'"", "" 'Security Staff'"", "" 'Store Room'""]",Aana,8.0,22,10
+402,Kathmandu,1800000,43,20,East,0 Feet,[''],Ropani,32.0,0,1
+406,Kathmandu,200000,4,4,East,0 Feet,"[""'Modular Kitchen'"", "" 'Water Supply'"", "" 'Garden'"", "" 'Balcony'"", "" 'Parking'"", "" 'CCTV'""]",Aana,5.0,0,6
+408,Bhaktapur,600000,0,0,East,0 Feet,[''],Ropani,80.0,0,1
+411,Kathmandu,250000,17,19,East,0 Feet,"[""'Modular Kitchen'"", "" 'Water Supply'"", "" 'CCTV'"", "" 'Balcony'""]",Aana,6.0,0,4
+421,Kathmandu,3000000,0,0,South,21 Feet,[''],Aana,12.02,21,1
+432,Lalitpur,270000,5,4,South,13 Feet / Blacktopped,"[""'Frontyard'"", "" 'Parking'"", "" 'Water Well'"", "" 'Balcony'"", "" 'Solar Water'"", "" 'Garage'"", "" 'Backyard'"", "" 'Lawn'"", "" 'Kids Playground'"", "" 'Store Room'"", "" 'Water Tank'"", "" 'Security Staff'""]",Ropani,32.0,13,12
+436,Kathmandu,3500000,0,0,North East,15 Feet / Blacktopped,[''],Aana,10.0,15,1
+438,Lalitpur,2700000,0,0,South East,14 Feet / Gravelled,[''],Aana,8.0,14,1
+439,Lalitpur,150000,4,4,East,0 Feet,"[""'Jacuzzi'"", "" 'Balcony'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Water Supply'"", "" 'Solar Water'""]",Aana,4.5,0,8
+444,Kathmandu,85000000,5,6,East,20 Feet / Blacktopped,"[""'Parking'""]",Aana,13.0,20,1
+445,Kathmandu,160000000,6,6,East,20 Feet / Blacktopped,"[""'Parking'""]",Aana,21.0,20,1
+447,Kathmandu,61000000,12,8,East,13 Feet / Blacktopped,"[""'Parking'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,11.0,13,4
+448,Kathmandu,45000000,6,6,East,15 Feet / Blacktopped,"[""'Garage'"", "" 'Parking'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Supply'""]",Aana,6.0,15,6
+449,Kathmandu,49500000,5,5,East,14 Feet / Blacktopped,"[""'Garage'""]",Aana,4.5,14,1
+450,Kathmandu,24000000,6,6,North East,15 Feet / Blacktopped,"[""'Garage'""]",Aana,3.5,15,1
+453,Kathmandu,22500000,5,5,East,14 Feet / Paved,"[""'Garage'""]",Aana,2.5,14,1
+455,Kathmandu,68000000,0,0,East,30 Feet / Blacktopped,[''],Aana,8.0,30,1
+457,Kathmandu,62000000,5,6,South West,14 Feet / Gravelled,"[""'Garage'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Parking'""]",Aana,17.0,14,9
+459,Kathmandu,69000000,7,7,South East,20 Feet / Blacktopped,"[""'Frontyard'"", "" 'Lawn'"", "" 'Garage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Parking'"", "" 'Store Room'""]",Aana,12.0,20,9
+460,Kathmandu,45000000,6,7,East,15 Feet / Blacktopped,"[""'Garage'"", "" 'Parking'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Washing Machine'"", "" 'Water Tank'""]",Aana,6.0,15,7
+478,Bhaktapur,1500000,0,0,North,12 Feet,[''],Aana,6.0,12,1
+481,Lalitpur,400000,0,5,North,1 Meter / Gravelled,"[""'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'Frontyard'"", "" 'Water Well'""]",Aana,9.0,1,5
+485,Kathmandu,23000000,5,5,West,13 Feet / Gravelled,"[""'Garage'""]",Aana,4.0,13,1
+487,Kathmandu,60000000,5,6,East,13 Feet / Paved,"[""'Garage'""]",Aana,5.5,13,1
+492,Kathmandu,55000000,5,6,South,14 Feet / Blacktopped,"[""'Garage'""]",Aana,7.0,14,1
+493,Kathmandu,25500000,7,6,South West,14 Feet / Blacktopped,"[""'Garage'""]",Aana,3.75,14,1
+504,Lalitpur,8700000,0,2,South,1 Feet / Concrete,"[""'Wifi'"", "" 'TV Cable'"", "" 'Store Room'""]",Aana,1.0,1,3
+505,Lalitpur,12500000,2,1,East,13 Feet,[''],Aana,3.0,13,1
+506,Lalitpur,130000,2,1,East,15 Feet,"[""'Water Tank'"", "" 'Water Well'"", "" 'Parking'""]",Aana,3.0,15,3
+508,Lalitpur,23500000,4,4,West,13 Feet / Blacktopped,"[""'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Internet'"", "" 'Microwave'"", "" 'Garden'"", "" 'Garage'"", "" 'Balcony'"", "" 'Backyard'"", "" 'Modular Kitchen'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Kids Playground'""]",Aana,3.75,13,13
+512,Kathmandu,2650000,0,0,East,20 Feet / Gravelled,[''],Aana,3.3,20,1
+513,Kathmandu,235000000,5,5,East,13 Feet / Gravelled,"[""'Garage'""]",Aana,3.0,13,1
+514,Kathmandu,27600000,7,6,East,13 Feet / Gravelled,"[""'Garage'"", "" 'Store Room'"", "" 'Parking'""]",Aana,4.0,13,3
+520,Kathmandu,70000000,6,7,East,15 Feet / Blacktopped,"[""'Parking'"", "" 'Garage'""]",Aana,22.0,15,2
+521,Kathmandu,500000000,5,5,East,15 Feet / Blacktopped,"[""'Balcony'"", "" 'Garage'""]",Aana,4.5,15,2
+522,Kathmandu,160000000,10,10,East,20 Feet / Blacktopped,"[""'Parking'""]",Aana,21.0,20,1
+523,Kathmandu,42500000,6,6,South East,15 Feet / Blacktopped,"[""'Garage'"", "" 'Parking'""]",Aana,6.0,15,2
+524,Kathmandu,18000000,5,5,North,13 Feet / Gravelled,"[""'Garage'""]",Aana,3.1,13,1
+525,Kathmandu,27500000,6,6,East,14 Feet / Gravelled,"[""'Garage'""]",Aana,4.0,14,1
+527,Kathmandu,145000000,5,6,East,18 Feet / Blacktopped,"[""'Garage'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Backyard'"", "" 'Garden'"", "" 'Store Room'"", "" 'Parking'"", "" 'Security Staff'""]",Aana,20.0,18,8
+531,Kathmandu,17500000,4,2,North East,20 Feet,[''],Aana,5.0,20,1
+532,Kathmandu,15500000,4,2,North East,0 Feet,[''],Aana,4.0,0,1
+533,Kathmandu,15500000,4,2,North East,20 Feet,[''],Aana,4.0,20,1
+534,Kathmandu,3200000,0,0,East,13 Feet / Blacktopped,[''],Aana,10.0,13,1
+535,Kathmandu,250000,18,5,North East,13 Feet / Blacktopped,"[""'Garden'"", "" 'Garage'"", "" 'Frontyard'"", "" 'Backyard'"", "" 'Kids Playground'""]",Ropani,32.0,13,5
+536,Kathmandu,3000000,0,0,North,20 Feet / Blacktopped,[''],Aana,3.0,20,1
+537,Kathmandu,2300000,0,0,East,13 Feet,[''],Aana,5.5,13,1
+539,Bhaktapur,400000,0,0,North West,400 Feet / Blacktopped,[''],Ropani,176.0,400,1
+541,Kathmandu,42000000,7,6,East,13 Feet / Gravelled,"[""'Frontyard'"", "" 'Garage'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Store Room'""]",Aana,8.5,13,7
+543,Kathmandu,2500000,0,0,North East,0 Feet,[''],Aana,16.0,0,1
+549,Kathmandu,200000,0,0,South East,20 Feet / Blacktopped,[''],Aana,10.0,20,1
+553,Kathmandu,350000,0,0,South,15 Feet / Blacktopped,"[""'Water Supply'"", "" 'Water Well'"", "" 'Frontyard'""]",Aana,8.0,15,3
+555,Kathmandu,200000,4,3,South East,15 Feet / Blacktopped,"[""'Water Supply'"", "" 'Water Well'"", "" 'Balcony'"", "" 'Frontyard'""]",Aana,8.0,15,4
+556,Kathmandu,3000000,0,0,South East,15 Feet / Blacktopped,[''],Aana,5.2,15,1
+557,Kathmandu,150000,0,0,South West,0 Feet,"[""'Frontyard'"", "" 'Balcony'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,3.0,0,4
+558,Kathmandu,1200000,0,0,North East,20 Feet / Blacktopped,[''],Ropani,64.0,20,1
+559,Kathmandu,250000,0,0,South East,16 Feet / Blacktopped,[''],Ropani,44.96,16,1
+560,Kathmandu,120000,12,0,North West,15 Feet / Blacktopped,"[""'Water Supply'"", "" 'Water Well'"", "" 'Frontyard'"", "" 'Drainage'""]",Aana,3.0,15,4
+561,Kathmandu,130000,12,0,North East,16 Feet / Blacktopped,"[""'Frontyard'"", "" 'Water Supply'""]",Aana,6.0,16,2
+562,Kathmandu,150000,8,3,North East,16 Feet,"[""'Frontyard'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Balcony'""]",Aana,4.0,16,4
+563,Kathmandu,2500000,0,0,North East,15 Feet / Gravelled,[''],Aana,4.0,15,1
+564,Kathmandu,150000,4,4,South,16 Feet,"[""'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Water Tank'""]",Aana,6.0,16,5
+565,Kathmandu,85000000,7,8,East,14 Feet / Blacktopped,"[""'Garage'"", "" 'Air Condition'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Washing Machine'"", "" 'Drainage'"", "" 'Wifi'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Parking'"", "" 'Store Room'""]",Aana,14.0,14,15
+569,Kathmandu,370000,17,17,North East,20 Feet / Blacktopped,"[""'Water Tank'"", "" 'Balcony'""]",Aana,6.0,20,2
+570,Kathmandu,2600000,0,0,East,22 Feet / Blacktopped,[''],Aana,4.0,22,1
+571,Kathmandu,150000,4,4,North East,13 Feet,"[""'Garage'"", "" 'Air Condition'"", "" 'Garden'"", "" 'Frontyard'"", "" 'Balcony'"", "" 'Modular Kitchen'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'""]",Aana,7.0,13,9
+572,Kathmandu,17000000,8,3,North,10 Feet / Soil Stabilized,[''],Aana,3.5,10,1
+574,Kathmandu,3200000,0,0,East,13 Feet,[''],Aana,7.0,13,1
+575,Kathmandu,17000000,4,5,West,16 Feet / Gravelled,"[""'Garage'""]",Aana,3.0,16,1
+576,Pokhara,2500000,0,0,North,13 Feet / Soil Stabilized,[''],Ropani,192.0,13,1
+577,Kathmandu,32500000,8,6,South East,20 Feet / Blacktopped,"[""'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Store Room'""]",Aana,4.0,20,4
+578,Kathmandu,29800000,5,5,East,15 Feet / Paved,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Store Room'""]",Aana,4.0,15,8
+579,Pokhara,2500000,0,0,South,20 Feet / Blacktopped,[''],Ropani,480.0,20,1
+581,Kathmandu,29900000,7,6,South West,20 Feet / Blacktopped,"[""'Balcony'"", "" 'Backyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Store Room'""]",Aana,5.0,20,10
+582,Kathmandu,49000000,6,6,South,14 Feet / Blacktopped,[''],Aana,5.3,14,1
+584,Kathmandu,21000000,6,6,East,13 Feet / Paved,"[""'Garage'""]",Aana,3.0,13,1
+585,Kathmandu,100000000,6,6,East,13 Feet / Blacktopped,"[""'Garage'"", "" 'Balcony'"", "" 'Backyard'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Fencing'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'Washing Machine'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Store Room'"", "" 'Parking'"", "" 'Security Staff'"", "" 'Kids Playground'""]",Aana,19.0,13,17
+587,Kathmandu,3500000,0,0,East,15 Feet / Blacktopped,[''],Aana,19.0,15,1
+588,Kathmandu,33500000,6,6,South East,14 Feet / Blacktopped,"[""'Balcony'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.0,14,4
+589,Kathmandu,28500000,5,5,North,15 Feet / Gravelled,"[""'Garage'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,4.0,15,5
+590,Kathmandu,50000000,5,5,East,16 Feet / Blacktopped,"[""'Frontyard'"", "" 'Garden'"", "" 'Garage'"", "" 'Store Room'""]",Aana,11.0,16,4
+591,Kathmandu,35000000,5,5,East,20 Feet / Blacktopped,"[""'Modular Kitchen'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,5.0,20,6
+592,Kathmandu,49000000,5,5,West,13 Feet / Gravelled,"[""'Garage'"", "" 'Air Condition'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Internet'"", "" 'Store Room'"", "" 'Parking'""]",Aana,8.5,13,15
+593,Kathmandu,39000000,5,5,East,15 Feet / Blacktopped,"[""'Garage'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Store Room'""]",Aana,7.0,15,10
+594,Kathmandu,6500000,0,0,East,20 Feet / Blacktopped,[''],Aana,32.0,20,1
+595,Kathmandu,29000000,6,6,East,13 Feet / Blacktopped,"[""'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Store Room'""]",Aana,4.0,13,6
+596,Kathmandu,44500000,5,5,South,16 Feet / Blacktopped,"[""'Balcony'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Store Room'"", "" 'Parking'""]",Aana,5.0,16,7
+597,Kathmandu,5500000,0,0,South,15 Feet / Blacktopped,[''],Aana,5.0,15,1
+598,Kathmandu,3700000,0,0,East,16 Feet / Blacktopped,[''],Aana,8.0,16,1
+599,Kathmandu,29800000,5,5,East,16 Feet / Blacktopped,"[""'Balcony'"", "" 'Garage'"", "" 'Parking'"", "" 'Store Room'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Well'""]",Aana,4.1,16,7
+600,Kathmandu,5700000,0,0,East,12 Feet / Blacktopped,[''],Aana,16.0,12,1
+612,Lalitpur,1200000,0,0,South East,20 Feet / Soil Stabilized,[''],Aana,3.3,20,1
+615,Kathmandu,32500000,4,3,East,11 Feet / Blacktopped,"[""'Lawn'"", "" 'Backyard'"", "" 'Frontyard'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Internet'"", "" 'Parking'"", "" 'Store Room'""]",Aana,5.75,11,11
+618,Lalitpur,150000,5,3,East,17 Meter / Blacktopped,"[""'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Water Supply'"", "" 'Water Well'"", "" 'Parking'""]",Aana,10.0,17,7
+620,Lalitpur,19000000,0,4,South East,13 Feet / Gravelled,"[""'Backyard'"", "" 'Frontyard'"", "" 'Balcony'"", "" 'TV Cable'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Water Tank'""]",Aana,3.1,13,8
+655,Kathmandu,18200000,5,5,East,13 Feet / Blacktopped,"[""'Parking'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.2,13,4
+657,Kathmandu,26000000,6,5,East,14 Feet / Blacktopped,"[""'Parking'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.0,14,5
+658,Kathmandu,39000000,5,5,East,14 Feet / Paved,"[""'Garage'"", "" 'Garden'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Store Room'"", "" 'Parking'""]",Aana,7.0,14,6
+659,Kathmandu,2300000,0,0,East,12 Feet / Soil Stabilized,[''],Aana,5.1,12,1
+660,Kathmandu,120000,4,4,West,14 Feet / Blacktopped,"[""'Garage'"", "" 'Garden'"", "" 'Balcony'"", "" 'Store Room'""]",Aana,8.0,14,4
+661,Kathmandu,33500000,5,5,North West,13 Feet / Gravelled,"[""'Modular Kitchen'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Parking'"", "" 'Internet'""]",Aana,5.5,13,8
+662,Kathmandu,39900000,5,6,East,14 Feet / Blacktopped,"[""'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,7.0,14,4
+664,Kathmandu,32500000,8,7,South East,20 Feet / Blacktopped,"[""'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'""]",Aana,4.0,20,3
+665,Kathmandu,29000000,5,5,South,14 Feet / Gravelled,"[""'Garden'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Parking'""]",Aana,5.0,14,5
+666,Kathmandu,2600000,0,0,North East,15 Feet,[''],Aana,4.0,15,1
+667,Kathmandu,36000000,5,5,East,13 Feet / Blacktopped,"[""'Garden'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Solar Water'"", "" 'Drainage'""]",Aana,6.0,13,5
+668,Kathmandu,47500000,4,5,East,15 Feet / Soil Stabilized,"[""'Garage'"", "" 'Balcony'"", "" 'Air Condition'"", "" 'Garden'"", "" 'Frontyard'"", "" 'Parking'"", "" 'Store Room'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'""]",Aana,9.0,15,10
+669,Kathmandu,28000000,0,0,East,12 Feet / Blacktopped,"[""'Parking'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Water Supply'"", "" 'Drainage'""]",Aana,4.0,12,5
+673,Kathmandu,23000000,6,5,North West,13 Feet / Gravelled,"[""'Garage'"", "" 'Water Supply'"", "" 'Drainage'""]",Aana,3.5,13,3
+675,Kathmandu,24500000,6,5,North East,22 Feet / Gravelled,"[""'Garage'"", "" 'Modular Kitchen'"", "" 'Water Supply'"", "" 'Drainage'""]",Aana,4.0,22,4
+676,Kathmandu,23800000,6,6,East,18 Feet / Blacktopped,"[""'Garage'"", "" 'Parking'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Water Supply'""]",Aana,4.0,18,5
+677,Kathmandu,39000000,6,6,South,15 Feet / Soil Stabilized,"[""'Balcony'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Store Room'"", "" 'Parking'""]",Aana,6.5,15,9
+678,Kathmandu,31000000,5,5,South West,14 Feet / Paved,"[""'Balcony'"", "" 'Garage'"", "" 'Water Supply'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Parking'""]",Aana,4.5,14,7
+679,Kathmandu,29000000,6,5,South,13 Feet / Gravelled,"[""'Balcony'"", "" 'Garage'"", "" 'Parking'""]",Aana,4.0,13,3
+680,Kathmandu,25000000,6,5,South,13 Feet / Gravelled,"[""'Balcony'"", "" 'Garage'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,3.5,13,4
+681,Kathmandu,56000000,5,5,South,15 Feet / Blacktopped,"[""'Garage'"", "" 'Air Condition'"", "" 'Balcony'"", "" 'Drainage'"", "" 'Washing Machine'"", "" 'Store Room'"", "" 'Parking'""]",Aana,8.0,15,7
+682,Kathmandu,67500000,5,5,South East,20 Feet / Blacktopped,"[""'Garage'"", "" 'Air Condition'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Microwave'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Store Room'"", "" 'Parking'"", "" 'Security Staff'""]",Aana,9.0,20,14
+683,Kathmandu,4000000,0,0,East,13 Feet / Blacktopped,[''],Aana,11.0,13,1
+684,Kathmandu,3500000,0,0,East,15 Feet / Soil Stabilized,[''],Aana,6.0,15,1
+685,Kathmandu,37500000,6,6,East,13 Feet / Blacktopped,"[""'Garage'"", "" 'Balcony'""]",Aana,3.75,13,2
+686,Kathmandu,350000,6,6,East,16 Feet / Gravelled,"[""'Air Condition'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Garden'"", "" 'Garage'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'Washing Machine'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Kids Playground'"", "" 'Security Staff'"", "" 'Store Room'"", "" 'Parking'""]",Aana,22.0,16,15
+687,Kathmandu,4200000,0,0,East,13 Feet / Blacktopped,[''],Aana,8.0,13,1
+688,Kathmandu,35000000,6,5,East,13 Feet / Blacktopped,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'Store Room'"", "" 'Drainage'"", "" 'Garage'""]",Aana,4.75,13,5
+694,Kathmandu,4500000,0,0,North East,15 Feet / Blacktopped,[''],Aana,12.0,15,1
+700,Lalitpur,19000000,4,3,North,0 Feet,[''],Aana,3.5,0,1
+708,Kathmandu,17500000,5,4,North,15 Feet,"[""'Backyard'"", "" 'Fencing'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Electricity Backup'"", "" 'Internet'"", "" 'Parking'"", "" 'Security Staff'"", "" 'Store Room'""]",Aana,3.1,15,15
+711,Kathmandu,34000000,5,4,South,14 Feet,"[""'Balcony'"", "" 'Backyard'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Parking'"", "" 'Store Room'""]",Aana,6.0,14,8
+712,Kathmandu,26300000,5,0,East,13 Feet,"[""'Parking'"", "" 'Water Tank'"", "" 'Drainage'""]",Aana,4.0,13,3
+716,Pokhara,700000,0,0,North,0 Feet,[''],Aana,2.0,0,1
+720,Kathmandu,16000000,4,3,East,12 Feet / Paved,"[""'Balcony'"", "" 'Water Tank'"", "" 'Water Supply'"", "" 'Drainage'""]",Aana,3.0,12,4
+725,Chitwan,1850000,0,0,East,8 Meter / Paved,[''],Ropani,323.2,8,1
+727,Lalitpur,19700000,4,4,South,13 Feet,"[""'Garage'"", "" 'Backyard'"", "" 'Balcony'""]",Aana,3.5,13,3
+728,Kathmandu,29000000,6,5,East,20 Feet / Gravelled,"[""'Water Tank'"", "" 'Garage'""]",Aana,4.0,20,2
+730,Kathmandu,45000000,6,6,East,13 Feet / Gravelled,"[""'Garage'"", "" 'Balcony'"", "" 'Modular Kitchen'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Store Room'"", "" 'Parking'""]",Aana,8.5,13,7
+731,Kathmandu,36000000,4,5,West,30 Feet / Soil Stabilized,"[""'Garage'"", "" 'Garden'"", "" 'Balcony'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Store Room'"", "" 'Parking'""]",Aana,7.0,30,9
+732,Kathmandu,35500000,5,5,North West,13 Feet / Gravelled,"[""'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Drainage'"", "" 'Parking'"", "" 'Store Room'""]",Aana,5.5,13,8
+735,Kathmandu,24100000,3,3,South West,13 Feet / Paved,"[""'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Wifi'"", "" 'Water Tank'"", "" 'TV Cable'""]",Aana,2.75,13,6
+736,Bhaktapur,15500000,4,2,East,13 Feet / Gravelled,"[""'Water Supply'"", "" 'Wifi'"", "" 'Balcony'"", "" 'Store Room'""]",Aana,3.0,13,4
+737,Kathmandu,40000000,5,5,East,20 Feet / Paved,"[""'Balcony'"", "" 'Frontyard'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Solar Water'""]",Aana,7.5,20,5
+739,Lalitpur,20000000,3,2,South,20 Feet / Blacktopped,"[""'Balcony'"", "" 'Garden'"", "" 'Gym'"", "" 'Modular Kitchen'"", "" 'Swimming Pool'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'CCTV'"", "" 'Electricity Backup'"", "" 'Internet'"", "" 'Kids Playground'"", "" 'Maintenance'"", "" 'Parking'"", "" 'Security Staff'"", "" 'Jacuzzi'""]",Aana,3.0,20,19
+740,Lalitpur,18000000,5,3,West,13 Feet / Blacktopped,"[""'Balcony'"", "" 'Garden'"", "" 'Garage'"", "" 'Parking'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Store Room'"", "" 'Modular Kitchen'""]",Aana,3.1,13,8
+742,Kathmandu,17000000,0,0,East,12 Feet,"[""'Drainage'"", "" 'Water Supply'"", "" 'Parking'""]",Aana,3.0,12,3
+748,Kathmandu,25500000,5,6,East,13 Feet / Blacktopped,"[""'Garage'""]",Aana,3.5,13,1
+749,Lalitpur,350000,0,0,East,24 Feet / Gravelled,[''],Aana,27.0,24,1
+750,Kathmandu,68000000,5,5,East,15 Feet / Blacktopped,"[""'Garage'"", "" 'Air Condition'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Store Room'"", "" 'Parking'""]",Aana,12.0,15,14
+751,Kathmandu,21500000,6,5,North East,20 Feet / Gravelled,"[""'Garage'"", "" 'Drainage'"", "" 'Solar Water'""]",Aana,3.5,20,3
+752,Kathmandu,18200000,6,0,West,13 Feet / Gravelled,"[""'Garage'""]",Aana,3.0,13,1
+753,Kathmandu,80000000,4,4,East,14 Feet / Blacktopped,"[""'Air Condition'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Parking'"", "" 'Store Room'""]",Aana,21.0,14,13
+754,Kathmandu,19900000,6,5,South West,12 Feet / Paved,"[""'Garage'"", "" 'Balcony'""]",Aana,3.1,12,2
+755,Kathmandu,72000000,5,5,South West,15 Feet / Blacktopped,[''],Aana,17.0,15,1
+756,Kathmandu,60000000,5,5,North East,13 Feet / Blacktopped,"[""'Garage'"", "" 'Parking'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Modular Kitchen'"", "" 'Garden'"", "" 'Balcony'"", "" 'Air Condition'""]",Aana,6.0,13,9
+757,Kathmandu,57500000,6,5,North West,15 Feet / Blacktopped,"[""'Garage'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Internet'"", "" 'Parking'"", "" 'Store Room'""]",Aana,12.0,15,16
+758,Kathmandu,66000000,5,5,South East,20 Feet / Blacktopped,"[""'Garage'"", "" 'Air Condition'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Backyard'"", "" 'Frontyard'"", "" 'Fencing'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Wifi'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Internet'"", "" 'Parking'"", "" 'Store Room'"", "" 'Security Staff'""]",Aana,14.0,20,21
+759,Kathmandu,29900000,7,5,South West,13 Feet / Blacktopped,"[""'Balcony'"", "" 'Garage'"", "" 'TV Cable'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Well'"", "" 'Internet'""]",Aana,4.0,13,8
+760,Kathmandu,29900000,7,7,South East,13 Feet / Blacktopped,"[""'Garage'"", "" 'Water Well'"", "" 'Internet'"", "" 'Store Room'"", "" 'Water Tank'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'TV Cable'""]",Aana,4.0,13,10
+761,Kathmandu,33500000,4,4,North East,20 Feet / Blacktopped,"[""'Garage'"", "" 'Air Condition'"", "" 'Balcony'"", "" 'TV Cable'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Parking'""]",Aana,5.0,20,9
+766,Kathmandu,20600000,5,3,North East,13 Feet / Soil Stabilized,"[""'Garage'"", "" 'Water Supply'"", "" 'Drainage'""]",Aana,3.1,13,3
+767,Kathmandu,26000000,5,3,West,26 Feet / Blacktopped,"[""'Wifi'"", "" 'Water Tank'"", "" 'Water Supply'"", "" 'Balcony'"", "" 'Water Well'"", "" 'TV Cable'""]",Aana,4.0,26,6
+768,Kathmandu,65000000,5,5,South,20 Feet / Blacktopped,"[""'Garage'"", "" 'Air Condition'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Drainage'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'CCTV'"", "" 'Internet'"", "" 'Parking'"", "" 'Security Staff'"", "" 'Maintenance'""]",Aana,8.0,20,21
+769,Kathmandu,400000000,6,6,East,20 Feet / Blacktopped,"[""'Lawn'"", "" 'Garage'"", "" 'Air Condition'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Deck'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Gym'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'""]",Aana,4.9,20,18
+770,Kathmandu,45000000,4,5,South East,15 Feet / Blacktopped,"[""'Garden'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'TV Cable'""]",Aana,7.0,15,5
+771,Kathmandu,3500000,0,0,South West,13 Feet / Gravelled,[''],Aana,4.5,13,1
+773,Kathmandu,600000,0,0,South East,18 Feet / Blacktopped,[''],Aana,58.0,18,1
+777,Kathmandu,400000,11,8,East,12 Feet,"[""'Lawn'"", "" 'Air Condition'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Electricity Backup'"", "" 'Internet'"", "" 'Parking'"", "" 'Security Staff'"", "" 'Store Room'""]",Aana,8.0,12,20
+782,Kathmandu,36000000,5,5,East,13 Feet / Blacktopped,"[""'Garage'"", "" 'Balcony'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'""]",Aana,5.5,13,6
+783,Kathmandu,20500000,4,4,South,15 Feet / Gravelled,"[""'Garage'"", "" 'Drainage'""]",Aana,4.0,15,2
+787,Kathmandu,18000000,4,4,North,13 Feet / Gravelled,"[""'Drainage'""]",Aana,3.1,13,1
+788,Kathmandu,72000000,5,5,East,15 Feet / Blacktopped,"[""'Garage'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'""]",Aana,13.0,15,9
+789,Kathmandu,23000000,6,5,East,13 Feet / Blacktopped,"[""'Garage'"", "" 'Drainage'"", "" 'TV Cable'"", "" 'Water Supply'""]",Aana,4.0,13,4
+790,Kathmandu,19900000,6,4,South East,13 Feet / Blacktopped,"[""'Garage'""]",Aana,3.1,13,1
+791,Kathmandu,40000000,7,8,East,14 Feet / Paved,"[""'Garage'""]",Aana,4.0,14,1
+792,Kathmandu,21500000,5,5,South,13 Feet / Gravelled,"[""'Garage'""]",Aana,3.5,13,1
+793,Kathmandu,34500000,6,3,North East,0 Feet,[''],Aana,4.0,0,1
+794,Kathmandu,70000000,4,4,West,14 Feet / Blacktopped,"[""'Garage'"", "" 'Garden'"", "" 'Solar Water'"", "" 'Drainage'""]",Aana,16.0,14,4
+795,Kathmandu,55000000,0,0,East,10 Meter / Gravelled,[''],Aana,6.2,10,1
+796,Kathmandu,65000000,5,5,South,14 Feet / Blacktopped,"[""'Air Condition'"", "" 'Lawn'"", "" 'Garden'""]",Aana,15.0,14,3
+797,Kathmandu,62000000,7,7,East,13 Feet / Blacktopped,"[""'Garden'"", "" 'Balcony'"", "" 'Garage'"", "" 'Frontyard'"", "" 'Drainage'""]",Aana,8.0,13,5
+798,Kathmandu,5800000,0,2,North,18 Feet / Paved,"[""'Lawn'"", "" 'Garage'"", "" 'Backyard'"", "" 'Garden'"", "" 'Frontyard'"", "" 'TV Cable'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Water Tank'""]",Aana,10.0,18,11
+804,Kathmandu,20000000,0,0,East,14 Feet / Gravelled,"[""'Water Supply'"", "" 'Parking'"", "" 'Balcony'""]",Aana,3.0,14,3
+813,Kathmandu,22000000,10,0,North,15 Feet / Blacktopped,[''],Aana,5.0,15,1
+815,Kathmandu,26000000,0,0,East,12 Feet / Gravelled,"[""'Water Supply'"", "" 'Water Tank'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Parking'"", "" 'Garden'""]",Aana,4.0,12,6
+816,Kathmandu,26500000,0,0,South East,14 Feet / Blacktopped,"[""'Garden'"", "" 'Parking'"", "" 'Water Tank'"", "" 'Parking'"", "" 'Drainage'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Solar Water'""]",Aana,4.0,14,10
+818,Kathmandu,60000000,0,0,South,0 Feet,[''],Aana,5.1,0,1
+821,Kathmandu,1200000,0,0,North,20 Feet / Gravelled,[''],Aana,8.0,20,1
+823,Kathmandu,900000,0,0,South,10 Feet / Paved,[''],Aana,3.0,10,1
+825,Bhaktapur,27000000,16,3,North,13 Feet / Blacktopped,[''],Aana,6.0,13,1
+829,Lalitpur,3700000,0,0,South West,40 Feet / Gravelled,[''],Aana,5.0,40,1
+832,Lalitpur,6500000,2,1,West,5 Feet / Gravelled,[''],Aana,3.0,5,1
+833,Kathmandu,27500000,7,0,East,13 Feet / Blacktopped,"[""'Air Condition'""]",Aana,4.5,13,1
+834,Kathmandu,18000000,6,4,East,13 Feet / Gravelled,"[""'Air Condition'""]",Aana,3.0,13,1
+838,Kathmandu,35000000,4,4,East,22 Feet / Blacktopped,"[""'Balcony'"", "" 'Fencing'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Electricity Backup'"", "" 'Internet'"", "" 'Maintenance'""]",Aana,4.0,22,14
+841,Kathmandu,13500000,4,3,South East,13 Feet / Gravelled,"[""'Water Tank'"", "" 'Water Well'"", "" 'Parking'""]",Aana,2.5,13,3
+849,Kathmandu,2000000,0,0,West,13 Feet / Soil Stabilized,[''],Aana,3.0,13,1
+858,Lalitpur,14500000,0,0,West,13 Feet / Gravelled,[''],Aana,3.0,13,1
+859,Kathmandu,1900000,0,0,West,12 Feet / Soil Stabilized,[''],Aana,5.0,12,1
+861,Kathmandu,45000000,0,0,South,15 Feet / Soil Stabilized,[''],Aana,8.0,15,1
+862,Kathmandu,49500000,0,0,South,15 Feet / Blacktopped,"[""'Balcony'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Parking'"", "" 'Store Room'""]",Aana,9.0,15,12
+865,Kathmandu,4300000,0,0,North,9 Feet / Paved,[''],Aana,9.0,9,1
+867,Lalitpur,16000000,16,4,East,10 Feet / Concrete,[''],Aana,4.0,10,1
+871,Kathmandu,27800000,6,3,East,13 Feet / Gravelled,"[""'Air Condition'""]",Aana,5.0,13,1
+878,Kathmandu,65000000,5,5,South East,13 Feet / Soil Stabilized,"[""'Modular Kitchen'"", "" 'Drainage'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Balcony'"", "" 'Backyard'"", "" 'Garden'"", "" 'Frontyard'""]",Aana,15.0,13,9
+879,Kathmandu,56000000,6,6,East,20 Feet / Soil Stabilized,"[""'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Wifi'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Air Condition'""]",Aana,10.0,20,8
+880,Kathmandu,44500000,6,5,South East,15 Feet / Blacktopped,"[""'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Wifi'"", "" 'Balcony'""]",Aana,8.1,15,8
+881,Kathmandu,85000000,5,5,East,13 Feet / Soil Stabilized,"[""'Frontyard'"", "" 'Garden'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Washing Machine'"", "" 'TV Cable'"", "" 'Microwave'"", "" 'Air Condition'""]",Aana,17.0,13,9
+897,Kathmandu,25000000,7,5,North,13 Feet / Gravelled,"[""'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Internet'"", "" 'Parking'""]",Aana,3.0,13,11
+904,Kathmandu,7000000,0,0,North,20 Feet / Blacktopped,[''],Aana,4.0,20,1
+905,Kathmandu,28000000,2,4,South,13 Feet / Gravelled,[''],Aana,5.0,13,1
+911,Kathmandu,21500000,5,5,East,13 Feet / Gravelled,[''],Aana,3.5,13,1
+912,Kathmandu,3900000,0,0,East,15 Feet / Blacktopped,[''],Aana,8.0,15,1
+913,Kathmandu,6700000,0,0,West,33 Feet,[''],Aana,4.0,33,1
+914,Kathmandu,25500000,7,5,East,20 Feet / Gravelled,"[""'Water Supply'"", "" 'Drainage'"", "" 'Garage'""]",Aana,5.0,20,3
+918,Bhaktapur,10500000,0,0,South,10 Feet / Blacktopped,[''],Aana,4.0,10,1
+928,Kathmandu,22000000,3,4,East,14 Feet,"[""'TV Cable'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Water Well'""]",Aana,3.0,14,5
+930,Kathmandu,110000,0,6,East,22 Feet / Blacktopped,"[""'Balcony'"", "" 'Drainage'"", "" 'Water Well'"", "" 'Electricity Backup'"", "" 'Internet'"", "" 'Parking'""]",Aana,6.0,22,6
+936,Kathmandu,47000000,18,6,South,13 Feet / Blacktopped,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Internet'"", "" 'Parking'"", "" 'Store Room'""]",Aana,6.0,13,11
+952,Kathmandu,22000000,6,5,East,14 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Internet'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Electricity Backup'"", "" 'Drainage'"", "" 'Garage'""]",Aana,5.0,14,9
+954,Kathmandu,550000,24,0,East,22 Feet / Blacktopped,"[""'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Wifi'"", "" 'Washing Machine'"", "" 'TV Cable'"", "" 'Modular Kitchen'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Microwave'"", "" 'Fencing'"", "" 'Garage'"", "" 'Air Condition'"", "" 'Lawn'"", "" 'Backyard'"", "" 'Balcony'""]",Aana,48.0,22,16
+955,Kathmandu,30000000,10,8,South,30 Feet / Blacktopped,"[""'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'""]",Aana,4.0,30,5
+956,Kathmandu,7000000,0,0,West,10 Feet / Soil Stabilized,[''],Aana,3.0,10,1
+964,Kathmandu,1300000,0,0,West,4 Feet / Soil Stabilized,[''],Aana,4.0,4,1
+965,Kavre,815000,0,0,North,20 Feet / Gravelled,[''],Aana,10.3,20,1
+966,Kathmandu,1350000,0,0,North,12 Feet / Gravelled,[''],Aana,6.0,12,1
+968,Kathmandu,20000000,0,0,South,15 Feet,[''],Aana,4.0,15,1
+971,Kathmandu,8500000,4,0,South,10 Feet,[''],Aana,2.5,10,1
+972,Lalitpur,1100000,0,0,South,20 Feet / Gravelled,[''],Aana,5.0,20,1
+973,Lalitpur,15500000,8,0,North,20 Feet / Gravelled,[''],Aana,3.0,20,1
+978,Bhaktapur,1200000,0,0,South West,20 Feet / Soil Stabilized,[''],Aana,39.0,20,1
+979,Kathmandu,5600000,0,0,East,15 Feet / Blacktopped,[''],Aana,5.0,15,1
+980,Kathmandu,44000000,5,6,East,15 Feet / Blacktopped,"[""'Water Tank'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Drainage'"", "" 'Wifi'"", "" 'TV Cable'""]",Aana,4.0,15,6
+981,Kathmandu,100000000,6,6,North West,20 Feet / Blacktopped,"[""'Fencing'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Backyard'"", "" 'Air Condition'"", "" 'Garage'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,20.0,20,15
+982,Kathmandu,96000000,5,7,South East,20 Feet / Blacktopped,"[""'Garden'"", "" 'Frontyard'"", "" 'Air Condition'"", "" 'Garage'"", "" 'Backyard'"", "" 'Deck'"", "" 'Fencing'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Washing Machine'"", "" 'Water Well'"", "" 'Water Tank'""]",Aana,18.0,20,18
+983,Kathmandu,28500000,6,6,East,20 Feet / Blacktopped,"[""'Garage'"", "" 'Water Tank'"", "" 'Solar Water'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Wifi'""]",Aana,4.5,20,6
+984,Kathmandu,22500000,0,0,North,16 Feet / Blacktopped,[''],Aana,4.0,16,1
+985,Kathmandu,41000000,17,10,East,15 Feet / Blacktopped,"[""'Frontyard'"", "" 'Garage'"", "" 'Wifi'"", "" 'Washing Machine'"", "" 'Water Tank'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'""]",Aana,8.1,15,8
+990,Kathmandu,65000000,5,6,East,15 Feet / Blacktopped,"[""'Frontyard'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'CCTV'""]",Aana,6.5,15,10
+994,Kathmandu,115000000,4,4,North East,13 Feet / Paved,"[""'Lawn'"", "" 'Garage'"", "" 'Air Condition'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Deck'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Microwave'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'CCTV'"", "" 'Electricity Backup'"", "" 'Internet'"", "" 'Security Staff'""]",Aana,18.0,13,22
+1008,Kathmandu,18000000,0,0,South,16 Feet / Blacktopped,[''],Aana,3.0,16,1
+1011,Kathmandu,35000000,0,0,North,15 Feet / Gravelled,[''],Aana,7.0,15,1
+1018,Kathmandu,5500000,0,0,East,16 Feet / Blacktopped,"[""'Water Supply'""]",Aana,4.5,16,1
+1022,Kathmandu,33000000,5,4,East,12 Feet / Blacktopped,"[""'Balcony'"", "" 'Water Supply'"", "" 'Store Room'"", "" 'Backyard'"", "" 'Water Tank'""]",Aana,5.0,12,5
+1025,Kathmandu,22500000,9,4,South,13 Feet / Blacktopped,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Parking'""]",Aana,3.0,13,6
+1026,Kathmandu,27500000,6,3,West,13 Feet / Blacktopped,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Parking'""]",Aana,4.0,13,9
+1027,Lalitpur,23800000,6,3,South East,13 Feet / Gravelled,"[""'Balcony'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Wifi'"", "" 'Solar Water'"", "" 'Garage'""]",Aana,4.0,13,6
+1030,Kathmandu,23000000,10,0,South,12 Feet / Blacktopped,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Internet'"", "" 'Parking'""]",Aana,4.0,12,8
+1031,Kathmandu,15500000,7,0,South,12 Feet / Gravelled,[''],Aana,3.0,12,1
+1037,Kathmandu,3500000,0,0,North,14 Feet / Gravelled,"[""'Water Well'""]",Aana,5.0,14,1
+1040,Kavre,1000000,0,0,South East,0 Feet,[''],Ropani,800.0,0,1
+1042,Kathmandu,4600000,0,0,North,13 Feet / Soil Stabilized,[''],Aana,3.0,13,1
+1043,Lalitpur,1000000,0,0,North,17 Feet / Gravelled,[''],Aana,5.0,17,1
+1052,Kathmandu,42000000,11,0,West,15 Feet / Blacktopped,[''],Aana,7.0,15,1
+1053,Kaski,800000,0,0,East,20 Feet / Soil Stabilized,[''],Ropani,480.0,20,1
+1056,Kathmandu,2800000,0,0,North,10 Feet / Soil Stabilized,[''],Aana,5.0,10,1
+1057,Bhaktapur,1800000,0,0,North,20 Feet / Blacktopped,[''],Aana,30.0,20,1
+1058,Bhaktapur,1300000,0,0,West,13 Feet / Gravelled,[''],Aana,10.0,13,1
+1061,Kathmandu,25500000,6,4,East,13 Feet / Blacktopped,"[""'Garden'""]",Aana,4.5,13,1
+1062,Kathmandu,15000000,0,0,East,10 Feet / Blacktopped,[''],Aana,3.0,10,1
+1063,Kathmandu,32000000,5,5,East,13 Feet / Blacktopped,"[""'Modular Kitchen'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Balcony'""]",Aana,4.0,13,6
+1065,Lalitpur,2900000,0,0,South East,22 Feet / Concrete,[''],Aana,4.0,22,1
+1072,Bhairahawa,125000000,16,20,North,55 Feet,"[""'Lawn'"", "" 'Air Condition'"", "" 'Microwave'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'CCTV'"", "" 'Cafeteria'"", "" 'Electricity Backup'"", "" 'Internet'"", "" 'Maintenance'""]",Aana,32.0,55,14
+1073,Kathmandu,5400000,0,0,South,6 Meter / Blacktopped,[''],Aana,4.0,6,1
+1077,Lalitpur,49500000,0,0,East,16 Feet / Blacktopped,[''],Aana,9.0,16,1
+1078,Kathmandu,1700000,0,0,East,16 Feet,[''],Aana,13.0,16,1
+1084,Dhading,9500000,0,0,North,15 Feet / Soil Stabilized,[''],Aana,5.0,15,1
+1086,Kathmandu,17000000,5,2,East,12 Feet / Blacktopped,"[""'Garage'"", "" 'Fencing'"", "" 'Water Tank'""]",Aana,3.0,12,3
+1090,Lalitpur,10000000,2,2,North East,13 Feet / Blacktopped,"[""'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Well'"", "" 'Internet'"", "" 'Parking'""]",Aana,3.0,13,6
+1092,Lalitpur,4500000,0,0,West,15 Feet / Gravelled,[''],Aana,8.0,15,1
+1094,Kathmandu,1300000,0,0,West,10 Feet / Soil Stabilized,[''],Aana,10.0,10,1
+1095,Kathmandu,1700000,0,0,South,10 Feet / Soil Stabilized,[''],Aana,4.0,10,1
+1096,Kathmandu,22500000,0,3,East,13 Feet / Paved,"[""'Balcony'""]",Aana,3.5,13,1
+1097,Lalitpur,5500000,0,0,West,15 Feet / Concrete,[''],Aana,8.0,15,1
+1098,Lalitpur,7000000,0,0,West,15 Feet / Blacktopped,[''],Aana,11.0,15,1
+1099,Lalitpur,5500000,0,0,West,13 Feet / Concrete,[''],Aana,12.0,13,1
+1100,Kathmandu,22000000,11,0,West,15 Feet / Gravelled,[''],Aana,5.0,15,1
+1106,Kathmandu,20500000,0,0,West,20 Feet / Blacktopped,[''],Aana,5.0,20,1
+1107,Kathmandu,27000000,3,4,North,0 Feet,[''],Aana,3.5,0,1
+1108,Lalitpur,8000000,0,0,West,0 Feet,[''],Aana,6.0,0,1
+1114,Lalitpur,3700000,0,0,East,5 Feet / Blacktopped,[''],Aana,4.0,5,1
+1115,Kathmandu,1350000,0,0,North,13 Feet / Soil Stabilized,[''],Aana,10.0,13,1
+1116,Kathmandu,3700000,0,0,West,12 Feet / Gravelled,[''],Aana,4.0,12,1
+1119,Lalitpur,4000000,0,0,North,20 Feet / Blacktopped,[''],Ropani,48.0,20,1
+1120,Kathmandu,5000000,0,0,South,20 Feet / Blacktopped,[''],Ropani,16.0,20,1
+1121,Kathmandu,26500000,11,5,East,13 Feet / Blacktopped,[''],Aana,4.0,13,1
+1124,Kathmandu,23500000,0,3,East,13 Feet / Blacktopped,"[""'Balcony'""]",Aana,4.1,13,1
+1130,Lalitpur,18000000,5,4,North West,11 Feet / Gravelled,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Parking'""]",Aana,3.0,11,7
+1140,Lalitpur,4800000,2,1,West,13 Feet / Gravelled,"[""'Garden'"", "" 'Modular Kitchen'"", "" 'Wifi'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Water Supply'"", "" 'Electricity Backup'"", "" 'Internet'"", "" 'Kids Playground'""]",Aana,3.0,13,9
+1142,Bhaktapur,21500000,0,0,West,15 Feet / Gravelled,[''],Aana,7.0,15,1
+1147,Jhapa,20000000,4,1,South,20 Feet / Blacktopped,[''],Aana,10.0,20,1
+1149,Kathmandu,51000000,5,5,East,14 Feet / Blacktopped,"[""'Lawn'"", "" 'Balcony'"", "" 'Fencing'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Parking'"", "" 'Store Room'"", "" 'Garage'""]",Aana,14.0,14,13
+1151,Lalitpur,29500000,5,3,East,0 Feet,"[""'Balcony'"", "" 'Fencing'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Internet'"", "" 'Kids Playground'""]",Aana,4.0,0,10
+1157,Kathmandu,1600000,0,0,South,10 Feet / Gravelled,[''],Aana,4.0,10,1
+1159,Kathmandu,15000000,2,3,West,12 Feet / Soil Stabilized,"[""'Lawn'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Garden'"", "" 'Fencing'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Water Supply'""]",Aana,3.0,12,10
+1161,Kathmandu,17500000,6,2,East,20 Feet / Gravelled,"[""'Balcony'"", "" 'Backyard'"", "" 'TV Cable'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'""]",Aana,11.0,20,6
+1162,Kathmandu,90000000,6,6,East,15 Feet / Blacktopped,"[""'Garage'"", "" 'Balcony'"", "" 'Lawn'"", "" 'Backyard'"", "" 'Frontyard'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Modular Kitchen'"", "" 'Washing Machine'"", "" 'Microwave'"", "" 'Wifi'""]",Aana,20.0,15,14
+1169,Lalitpur,11000000,3,1,North,14 Feet / Gravelled,[''],Aana,3.0,14,1
+1170,Bhaktapur,1400000,0,0,West,10 Feet / Soil Stabilized,[''],Aana,4.0,10,1
+1171,Kathmandu,70000000,5,5,North,13 Feet / Blacktopped,[''],Aana,9.0,13,1
+1174,Kathmandu,17900000,5,5,East,14 Feet / Gravelled,[''],Aana,3.5,14,1
+1175,Kathmandu,34500000,5,5,South West,15 Feet / Blacktopped,"[""'Garden'"", "" 'Balcony'"", "" 'Microwave'"", "" 'Lawn'""]",Aana,7.0,15,4
+1177,Kathmandu,41000000,7,6,East,20 Feet / Blacktopped,"[""'Backyard'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Kids Playground'"", "" 'Parking'"", "" 'Security Staff'"", "" 'Store Room'""]",Aana,7.0,20,10
+1178,Kathmandu,18500000,7,4,East,26 Feet / Blacktopped,"[""'Balcony'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,1.5,26,4
+1180,Kathmandu,1500000,0,0,East,0 Feet,[''],Aana,4.0,0,1
+1182,Kathmandu,105000000,5,6,West,20 Feet / Blacktopped,"[""'Garden'"", "" 'Frontyard'"", "" 'Garage'"", "" 'Fencing'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'TV Cable'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Washing Machine'"", "" 'Balcony'"", "" 'Backyard'"", "" 'Lawn'"", "" 'Microwave'"", "" 'Modular Kitchen'""]",Aana,32.0,20,15
+1183,Bhaktapur,3000000,0,0,South,10 Feet,[''],Aana,3.0,10,1
+1184,Kathmandu,36500000,9,10,South,14 Feet / Blacktopped,"[""'Garden'"", "" 'Frontyard'"", "" 'Wifi'"", "" 'Water Tank'"", "" 'Solar Water'"", "" 'TV Cable'""]",Aana,6.0,14,6
+1185,Kathmandu,15000000,0,0,South,10 Feet / Blacktopped,[''],Aana,3.0,10,1
+1186,Kathmandu,21000000,5,4,West,13 Feet / Gravelled,"[""'Modular Kitchen'""]",Aana,3.5,13,1
+1187,Kathmandu,38000000,0,0,North,14 Feet / Blacktopped,[''],Aana,8.0,14,1
+1189,Kathmandu,11000000,0,0,West,12 Feet / Blacktopped,[''],Aana,2.5,12,1
+1192,Kathmandu,17500000,7,3,East,0 Feet,[''],Aana,3.2,0,1
+1193,Kathmandu,1350000,0,0,West,10 Feet / Gravelled,[''],Aana,4.0,10,1
+1197,Kathmandu,5000000,0,0,West,20 Feet / Blacktopped,[''],Aana,4.0,20,1
+1198,Kathmandu,5200000,0,0,North,24 Feet,[''],Aana,3.0,24,1
+1200,Pokhara,1800000,0,0,West,20 Feet / Blacktopped,[''],Aana,60.0,20,1
+1201,Kathmandu,27000000,0,0,East,0 Feet,[''],Aana,9.0,0,1
+1205,Kathmandu,250000,0,0,West,16 Feet / Gravelled,[''],Aana,30.0,16,1
+1208,Kathmandu,8000000,7,3,West,10 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,4.0,10,6
+1211,Kathmandu,17800000,5,6,South,12 Feet / Blacktopped,[''],Aana,3.1,12,1
+1213,Kathmandu,21800000,5,6,North East,12 Feet / Blacktopped,[''],Aana,3.5,12,1
+1219,Kathmandu,23000000,4,3,South,15 Feet / Gravelled,"[""'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Store Room'""]",Aana,3.1,15,4
+1228,Kathmandu,2900000,0,0,West,12 Feet / Blacktopped,[''],Aana,4.0,12,1
+1232,Makwanpur,200000,0,0,North East,4 Feet / Gravelled,[''],Ropani,64.0,4,1
+1235,Kathmandu,2300000,0,0,East,13 Feet,[''],Aana,12.0,13,1
+1238,Kathmandu,22000000,0,0,South,22 Feet / Gravelled,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Parking'""]",Aana,4.0,22,9
+1240,Lalitpur,17500000,0,0,South,13 Feet,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Parking'""]",Aana,3.0,13,9
+1241,Kathmandu,130000,0,0,North,15 Feet / Gravelled,[''],Aana,8.0,15,1
+1247,Pokhara,37000000,7,5,South East,20 Feet / Gravelled,"[""'Garage'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Electricity Backup'"", "" 'Kids Playground'"", "" 'Parking'"", "" 'Store Room'""]",Aana,6.5,20,15
+1248,Kathmandu,800000,0,0,South,20 Feet / Gravelled,[''],Aana,16.0,20,1
+1249,Kathmandu,4000000,0,0,West,12 Feet / Gravelled,[''],Aana,3.0,12,1
+1250,Lalitpur,26000000,5,4,North,13 Feet / Blacktopped,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Parking'"", "" 'Store Room'""]",Aana,4.0,13,9
+1251,Kathmandu,1400000,0,0,West,12 Feet / Soil Stabilized,[''],Aana,3.0,12,1
+1253,Kathmandu,29800000,11,0,North,13 Feet / Blacktopped,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Internet'"", "" 'Parking'"", "" 'Store Room'""]",Aana,5.0,13,11
+1255,Lalitpur,350000,0,0,East,24 Feet / Gravelled,[''],Aana,27.0,24,1
+1260,Kathmandu,32000000,0,0,South,12 Feet / Blacktopped,[''],Aana,6.0,12,1
+1268,Kathmandu,11000000,0,0,West,10 Feet / Soil Stabilized,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Parking'"", "" 'Store Room'""]",Aana,3.0,10,9
+1271,Kathmandu,17000000,6,3,South East,11 Feet,[''],Aana,4.1,11,1
+1277,Kathmandu,4000000,0,0,South,10 Feet / Blacktopped,[''],Aana,1.0,10,1
+1278,Kathmandu,2750000,0,0,South West,15 Feet / Blacktopped,[''],Aana,6.5,15,1
+1284,Lalitpur,2500000,0,0,East,13 Feet / Gravelled,[''],Aana,4.0,13,1
+1285,Lalitpur,200000,6,3,South,13 Feet / Paved,"[""'Balcony'"", "" 'Garden'"", "" 'Water Supply'"", "" 'Parking'""]",Aana,26.0,13,4
+1286,Lalitpur,6000000,0,0,East,20 Feet / Gravelled,[''],Aana,8.0,20,1
+1287,Kathmandu,1200000,0,0,West,20 Feet,[''],Aana,8.0,20,1
+1289,Kathmandu,1500000,0,0,West,15 Feet / Soil Stabilized,[''],Aana,18.0,15,1
+1291,Kathmandu,115000000,0,0,East,14 Feet / Blacktopped,[''],Ropani,32.0,14,1
+1292,Kathmandu,28000000,0,0,South,15 Feet / Gravelled,[''],Aana,4.0,15,1
+1293,Lalitpur,10000000,0,0,West,12 Feet / Soil Stabilized,[''],Aana,5.0,12,1
+1294,Lalitpur,25000000,0,0,West,14 Feet / Gravelled,[''],Aana,8.0,14,1
+1297,Kathmandu,24000000,6,6,North West,15 Feet / Blacktopped,[''],Aana,4.0,15,1
+1298,Kathmandu,24000000,6,6,South East,14 Feet / Blacktopped,[''],Aana,4.0,14,1
+1300,Lalitpur,5500000,0,0,West,10 Feet / Gravelled,[''],Aana,11.0,10,1
+1303,Kathmandu,2500000,0,0,North,13 Feet / Gravelled,[''],Aana,4.0,13,1
+1304,Lalitpur,12500000,0,0,East,13 Feet / Gravelled,[''],Aana,3.0,13,1
+1306,Lalitpur,1000000,0,0,West,4 Feet / Soil Stabilized,[''],Aana,5.0,4,1
+1307,Kathmandu,27500000,5,3,South,26 Feet / Gravelled,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Parking'"", "" 'Store Room'""]",Aana,4.0,26,10
+1308,Kathmandu,24000000,0,0,South,15 Feet / Blacktopped,[''],Aana,4.0,15,1
+1310,Kathmandu,24000000,11,3,North,13 Feet / Blacktopped,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Parking'""]",Aana,4.0,13,7
+1311,Kathmandu,1900000,0,0,South,13 Feet / Gravelled,[''],Aana,4.0,13,1
+1312,Lalitpur,11500000,0,0,East,13 Feet,[''],Aana,33.0,13,1
+1313,Kathmandu,24500000,7,4,West,12 Feet,"[""'Garden'""]",Aana,3.3,12,1
+1316,Bhaktapur,250000,0,0,East,12 Feet / Blacktopped,[''],Aana,16.0,12,1
+1318,Bhaktapur,1050000,0,0,East,14 Feet / Blacktopped,[''],Aana,18.0,14,1
+1319,Kathmandu,4200000,0,0,North East,20 Feet / Blacktopped,[''],Aana,8.0,20,1
+1320,Kathmandu,62000000,4,6,East,15 Feet / Blacktopped,"[""'Modular Kitchen'"", "" 'Microwave'"", "" 'TV Cable'"", "" 'Garden'"", "" 'Backyard'"", "" 'Frontyard'"", "" 'Balcony'""]",Aana,10.0,15,7
+1321,Kathmandu,42500000,6,6,South,15 Feet / Blacktopped,"[""'Modular Kitchen'"", "" 'TV Cable'"", "" 'Balcony'""]",Aana,6.0,15,3
+1322,Kathmandu,24500000,5,5,East,30 Feet / Gravelled,"[""'Modular Kitchen'"", "" 'TV Cable'""]",Aana,4.0,30,2
+1323,Kathmandu,45000000,6,6,South West,15 Feet / Blacktopped,"[""'Garden'"", "" 'TV Cable'"", "" 'Modular Kitchen'"", "" 'Microwave'"", "" 'Balcony'"", "" 'Backyard'"", "" 'Frontyard'""]",Aana,8.0,15,7
+1324,Kathmandu,33000000,0,0,South West,18 Feet / Blacktopped,"[""'Garden'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'TV Cable'""]",Aana,6.5,18,4
+1326,Lalitpur,46500000,0,0,East,21 Feet / Blacktopped,"[""'TV Cable'"", "" 'Balcony'"", "" 'Air Condition'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Solar Water'""]",Aana,4.0,21,9
+1327,Kathmandu,34000000,5,0,South,15 Feet / Blacktopped,"[""'Garage'"", "" 'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'"", "" 'Parking'""]",Aana,4.0,15,10
+1335,Kathmandu,110000,3,3,East,12 Feet / Blacktopped,[''],Aana,6.0,12,1
+1340,Kathmandu,42000000,0,0,North,20 Feet / Blacktopped,[''],Aana,4.0,20,1
+1349,Kathmandu,2000000,0,0,West,12 Feet / Gravelled,[''],Aana,5.0,12,1
+1357,Lalitpur,150000000,10,10,South,20 Feet / Blacktopped,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,17.0,20,9
+1359,Lalitpur,18000000,4,5,North,13 Feet / Soil Stabilized,"[""'Garage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'TV Cable'"", "" 'Balcony'"", "" 'Modular Kitchen'"", "" 'Water Tank'""]",Aana,0.3,13,7
+1360,Kathmandu,2700000,0,0,East,13 Feet / Gravelled,[''],Aana,5.0,13,1
+1362,Kathmandu,46000000,0,0,South West,13 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,8.0,13,7
+1364,Lalitpur,3200000,0,0,East,12 Feet / Blacktopped,[''],Aana,21.0,12,1
+1365,Kathmandu,1900000,0,0,South West,16 Feet / Blacktopped,[''],Aana,4.0,16,1
+1366,Kathmandu,19000000,6,3,North East,0 Feet,"[""'Backyard'"", "" 'Balcony'"", "" 'Fencing'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Modular Kitchen'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Solar Water'"", "" 'Washing Machine'""]",Aana,3.2,0,10
+1369,Kathmandu,30500000,4,4,North East,15 Feet / Blacktopped,"[""'Modular Kitchen'"", "" 'Water Supply'"", "" 'Drainage'"", "" 'Wifi'"", "" 'Garage'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Microwave'""]",Aana,5.0,15,8
+1370,Lalitpur,1250000,0,0,East,13 Feet / Gravelled,[''],Aana,6.5,13,1
+1372,Kathmandu,21000000,6,3,North,14 Feet / Blacktopped,"[""'Balcony'"", "" 'Water Well'"", "" 'TV Cable'"", "" 'Wifi'""]",Aana,3.0,14,4
+1373,Lalitpur,6000000,0,0,East,26 Feet,[''],Aana,11.0,26,1
+1376,Kathmandu,33000000,3,4,East,20 Feet / Blacktopped,"[""'Garage'"", "" 'Lawn'"", "" 'Balcony'"", "" 'Swimming Pool'"", "" 'Gym'"", "" 'Garden'"", "" 'Frontyard'"", "" 'Drainage'"", "" 'Wifi'"", "" 'Modular Kitchen'"", "" 'Water Supply'""]",Aana,0.3,20,11
+1378,Bhaktapur,3200000,0,0,West,13 Feet / Blacktopped,[''],Aana,6.0,13,1
+1379,Kathmandu,2200000,0,0,East,15 Feet / Soil Stabilized,[''],Aana,9.0,15,1
+1380,Kathmandu,55000000,10,5,South,15 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,8.0,15,7
+1381,Kathmandu,2550000,0,0,West,13 Feet / Gravelled,[''],Aana,11.0,13,1
+1382,Kathmandu,40000000,5,4,South,15 Feet / Gravelled,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,6.0,15,8
+1383,Kathmandu,2600000,0,0,North,13 Feet / Soil Stabilized,[''],Aana,14.0,13,1
+1385,Kathmandu,10600000,2,1,South,10 Feet,"[""'Garage'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,3.0,10,6
+1392,Kathmandu,2200000,0,0,West,14 Feet,[''],Aana,24.0,14,1
+1394,Kathmandu,20000000,0,0,South,20 Feet,[''],Aana,14.0,20,1
+1395,Kathmandu,2250000,0,0,South,16 Feet,[''],Aana,18.0,16,1
+1397,Lalitpur,150000000,0,0,South,20 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,17.0,20,5
+1401,Kathmandu,39000000,5,2,South,14 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.0,14,5
+1402,Kathmandu,39000000,4,4,South,13 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,10.0,13,7
+1403,Kathmandu,4700000,0,0,South,12 Feet,[''],Aana,11.0,12,1
+1405,Kathmandu,2800000,0,0,East,15 Feet,[''],Aana,4.0,15,1
+1407,Bhaktapur,725000,0,0,East,13 Feet,[''],Aana,14.0,13,1
+1410,Kathmandu,33000000,0,0,East,20 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,7.0,20,5
+1412,Lalitpur,170000,0,0,East,13 Feet,"[""'Balcony'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,8.0,13,5
+1413,Kathmandu,160000,7,5,South,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,8.0,13,5
+1414,Kathmandu,24500000,0,0,South East,14 Feet,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,14,6
+1415,Kathmandu,61500000,0,0,South,15 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,18.0,15,6
+1416,Kathmandu,70000000,4,5,South,12 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,10.0,12,8
+1417,Kathmandu,1000000,0,0,North,20 Feet,"[""'Wifi'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,8.0,20,3
+1419,Kavre,9000000,7,3,East,24 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.0,24,5
+1425,Bhaktapur,2200000,0,0,South West,13 Feet / Gravelled,[''],Aana,4.0,13,1
+1426,Kathmandu,300000,6,3,East,12 Feet / Blacktopped,"[""'Garage'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Water Supply'"", "" 'TV Cable'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Modular Kitchen'"", "" 'Drainage'""]",Ropani,16.0,12,11
+1428,Kathmandu,25000000,6,0,North East,16 Feet / Gravelled,"[""'Garage'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Garden'"", "" 'Microwave'"", "" 'Water Supply'"", "" 'Modular Kitchen'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Solar Water'""]",Aana,4.0,16,10
+1432,Kathmandu,10500000,2,1,South West,12 Feet / Gravelled,"[""'Garage'"", "" 'Backyard'"", "" 'Deck'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Well'""]",Aana,3.2,12,9
+1433,Kathmandu,12500000,3,3,North,10 Feet / Gravelled,"[""'Balcony'"", "" 'Deck'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Well'""]",Aana,3.0,10,9
+1437,Kathmandu,3000000,0,0,East,13 Feet,[''],Aana,21.0,13,1
+1438,Kathmandu,142500000,42,0,South,22 Feet / Blacktopped,[''],Aana,7.0,22,1
+1440,Kathmandu,150000,5,4,South East,15 Feet,"[""'Lawn'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,16.0,15,6
+1441,Lalitpur,1200000,0,0,West,20 Feet / Blacktopped,[''],Ropani,640.0,20,1
+1442,Kathmandu,250000,5,4,East,13 Feet,"[""'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,25.0,13,5
+1444,Lalitpur,125000,0,0,South East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,7.0,13,5
+1445,Bhaktapur,900000,0,0,South East,16 Feet / Blacktopped,[''],Ropani,144.0,16,1
+1447,Kathmandu,175000,0,0,North,15 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,10.0,15,6
+1448,Lalitpur,150000,0,0,South,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,9.0,13,5
+1449,Kathmandu,125000,6,4,East,15 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,17.0,15,8
+1452,Lalitpur,19500000,6,5,South,14 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,14,6
+1453,Lalitpur,97500000,3,0,East,20 Feet / Soil Stabilized,"[""'Lawn'"", "" 'Garage'"", "" 'Backyard'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Water Tank'""]",Aana,24.0,20,7
+1454,Kathmandu,38000000,7,4,East,14 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,6.1,14,5
+1455,Lalitpur,125000,4,6,South,14 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,16.0,14,6
+1457,Kathmandu,4500000,0,0,South East,8 Meter,[''],Aana,4.0,8,1
+1458,Kathmandu,210000,0,0,South,20 Feet,"[""'Drainage'"", "" 'Water Supply'""]",Aana,4.0,20,2
+1459,Kathmandu,29500000,4,3,South East,20 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,7.0,20,6
+1460,Lalitpur,4500000,0,0,North,10 Feet,[''],Aana,3.5,10,1
+1461,Kathmandu,14000000,6,0,North,12 Feet / Soil Stabilized,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,12,6
+1464,Lalitpur,185000,5,5,East,14 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,23.0,14,9
+1465,Kathmandu,43500000,0,0,West,20 Feet,"[""'Drainage'"", "" 'Water Supply'""]",Aana,3.85,20,2
+1466,Lalitpur,2800000,0,0,South,20 Feet,[''],Aana,7.1,20,1
+1467,Lalitpur,300000,17,5,West,14 Feet,"[""'Balcony'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,16.0,14,5
+1468,Lalitpur,200000,5,4,South East,20 Feet,"[""'Balcony'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.0,20,6
+1471,Lalitpur,120000,5,3,South East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,8.0,13,5
+1472,Lalitpur,29500000,3,2,West,18 Feet / Blacktopped,"[""'Lawn'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Gym'"", "" 'Garden'"", "" 'Microwave'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Modular Kitchen'"", "" 'Swimming Pool'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,6.0,18,16
+1474,Bhaktapur,22500000,12,4,South East,20 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,20,5
+1475,Lalitpur,1600000,0,0,North,20 Feet,[''],Aana,16.0,20,1
+1480,Kathmandu,18000000,3,4,South,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.5,13,5
+1481,Kathmandu,34500000,9,4,East,12 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,6.3,12,6
+1482,Kathmandu,72500000,7,6,South West,20 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,14.0,20,6
+1483,Kathmandu,11500000,2,1,North,13 Feet / Gravelled,"[""'TV Cable'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.0,13,3
+1484,Kathmandu,27500000,9,7,North,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.0,13,5
+1486,Kathmandu,3500000,0,0,East,12 Feet,[''],Aana,4.0,12,1
+1489,Kathmandu,170000000,0,0,North,20 Feet,[''],Aana,19.0,20,1
+1494,Kathmandu,2650000,0,0,South West,10 Feet / Gravelled,[''],Aana,9.5,10,1
+1495,Kathmandu,6200000,0,0,North,20 Feet / Blacktopped,[''],Aana,7.0,20,1
+1496,Kathmandu,37500000,2,3,North,14 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.0,14,6
+1497,Kathmandu,3800000,0,0,South,15 Feet / Gravelled,[''],Aana,12.0,15,1
+1504,Bhaktapur,2400000,0,0,South,18 Feet,[''],Aana,7.0,18,1
+1506,Kathmandu,17500000,0,0,West,16 Feet,[''],Aana,4.0,16,1
+1507,Kathmandu,37500000,0,0,South,20 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,6.0,20,5
+1513,Kathmandu,1500000,0,0,North,20 Feet / Blacktopped,[''],Ropani,64.0,20,1
+1514,Bhaktapur,25000000,2,1,East,13 Feet / Gravelled,[''],Aana,7.0,13,1
+1515,Kathmandu,18000000,0,0,South,13 Feet,[''],Aana,3.0,13,1
+1517,Bhaktapur,2000000,0,0,East,15 Feet / Soil Stabilized,[''],Aana,4.5,15,1
+1523,Kathmandu,4200000,0,0,East,20 Feet / Blacktopped,[''],Aana,11.0,20,1
+1528,Kathmandu,57500000,4,6,South,20 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,7.0,20,8
+1530,Kathmandu,175000,4,3,North,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,12.0,13,6
+1535,Kathmandu,29000000,5,3,South West,15 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,15,6
+1541,Kathmandu,400000,5,4,South West,16 Feet / Blacktopped,"[""'Balcony'"", "" 'Garden'"", "" 'Water Supply'"", "" 'TV Cable'"", "" 'Water Well'"", "" 'Lawn'"", "" 'Frontyard'"", "" 'Fencing'"", "" 'Wifi'"", "" 'Backyard'"", "" 'Modular Kitchen'"", "" 'Solar Water'"", "" 'Deck'"", "" 'Drainage'"", "" 'Water Tank'""]",Aana,25.0,16,15
+1545,Kathmandu,4100000,0,0,West,15 Feet / Soil Stabilized,[''],Aana,10.0,15,1
+1546,Kathmandu,51000000,0,0,South,15 Feet / Blacktopped,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,8.0,15,8
+1553,Kathmandu,26500000,0,0,East,12 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.5,12,5
+1554,Pokhara,36500000,0,0,East,20 Feet / Gravelled,"[""'Garage'"", "" 'Garden'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'TV Cable'"", "" 'Solar Water'"", "" 'Water Well'"", "" 'Water Tank'"", "" 'Washing Machine'"", "" 'Balcony'"", "" 'Fencing'"", "" 'Backyard'"", "" 'Gym'"", "" 'Frontyard'"", "" 'Modular Kitchen'""]",Aana,6.5,20,15
+1555,Kathmandu,41000000,0,0,East,12 Feet / Blacktopped,"[""'Balcony'"", "" 'Wifi'"", "" 'Fencing'"", "" 'Drainage'"", "" 'Solar Water'"", "" 'Washing Machine'"", "" 'Garden'"", "" 'Water Supply'"", "" 'TV Cable'"", "" 'Water Tank'""]",Aana,4.0,12,10
+1559,Kathmandu,30000000,0,0,East,12 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,6.0,12,5
+1561,Kathmandu,5500000,0,0,West,13 Feet,[''],Aana,8.0,13,1
+1562,Bhaktapur,1700000,0,0,South,15 Feet / Soil Stabilized,[''],Aana,3.0,15,1
+1565,Kathmandu,17500000,0,0,North East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.5,13,5
+1567,Kathmandu,20000000,0,0,South,13 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,13,6
+1568,Kathmandu,2000000,0,0,South East,13 Feet,[''],Aana,10.0,13,1
+1573,Kathmandu,15000000,2,1,South,11 Feet,"[""'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.0,11,4
+1574,Kathmandu,25000000,6,3,North,11 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,3.3,11,7
+1575,Kathmandu,70000000,13,0,South East,14 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,13.0,14,7
+1576,Kathmandu,16500000,6,3,South,10 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.1,10,5
+1577,Kathmandu,53000000,6,4,West,15 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,7.5,15,7
+1578,Kathmandu,3200000,0,0,North,13 Feet / Paved,[''],Aana,5.5,13,1
+1579,Kathmandu,5500000,0,0,North,20 Feet / Blacktopped,[''],Aana,7.0,20,1
+1580,Kathmandu,3200000,0,0,South East,15 Feet / Soil Stabilized,[''],Aana,7.0,15,1
+1581,Kathmandu,2550000,0,0,North,15 Feet / Soil Stabilized,[''],Aana,16.5,15,1
+1582,Bhaktapur,1350000,0,0,West,13 Feet / Soil Stabilized,[''],Aana,3.2,13,1
+1583,Kathmandu,3200000,0,0,West,6 Meter / Concrete,[''],Aana,2.2,6,1
+1584,Kathmandu,43000000,6,5,South East,12 Feet / Gravelled,"[""'Garage'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Swimming Pool'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,8.0,12,13
+1586,Kathmandu,250000000,0,0,East,20 Feet / Blacktopped,[''],Aana,4.0,20,1
+1591,Lalitpur,3600000,0,0,South,12 Feet,[''],Aana,4.0,12,1
+1593,Kathmandu,3600000,0,0,North,10 Feet / Gravelled,[''],Aana,13.0,10,1
+1596,Kathmandu,33500000,0,0,East,20 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.0,20,5
+1597,Kathmandu,32000000,9,4,East,10 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,5.0,10,7
+1598,Kathmandu,14000000,0,0,East,10 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,2.5,10,5
+1599,Kathmandu,35000000,10,3,North,16 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,16,6
+1600,Lalitpur,25500000,4,4,North West,14 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.2,14,7
+1601,Lalitpur,24000000,12,4,South East,0 Feet,"[""'Water Supply'"", "" 'Balcony'"", "" 'Water Well'"", "" 'Fencing'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'""]",Aana,4.0,0,7
+1602,Pokhara,850000017,0,0,East,20 Feet,[''],Aana,5.2,20,1
+1605,Kathmandu,1600000,0,0,East,20 Feet / Gravelled,[''],Aana,28.0,20,1
+1606,Lalitpur,16500000,5,3,South,13 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.5,13,6
+1608,Kathmandu,750000,0,0,West,13 Feet / Soil Stabilized,[''],Aana,4.0,13,1
+1609,Lalitpur,1250000,0,0,North,20 Feet,[''],Ropani,80.0,20,1
+1610,Kathmandu,25000000,0,0,West,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.0,13,5
+1611,Kathmandu,31800000,10,0,East,14 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.1,14,6
+1612,Kathmandu,2500000,0,0,South,15 Feet / Soil Stabilized,[''],Aana,9.0,15,1
+1613,Kathmandu,27500000,0,0,North,13 Feet / Gravelled,[''],Aana,4.0,13,1
+1616,Kathmandu,26000000,0,0,West,15 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.1,15,6
+1618,Kathmandu,9500000,4,0,South,15 Feet / Soil Stabilized,"[""'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,15,4
+1619,Kathmandu,15000000,0,0,West,13 Feet / Blacktopped,"[""'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.0,13,6
+1622,Kathmandu,42500000,5,4,South West,20 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.5,20,6
+1626,Kathmandu,60000000,0,0,East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,9.0,13,5
+1627,Kathmandu,40000000,0,0,West,20 Feet / Paved,[''],Aana,6.1,20,1
+1629,Kathmandu,19000000,3,2,South West,24 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.1,24,6
+1630,Kathmandu,7500000,0,0,East,18 Feet / Gravelled,[''],Aana,12.5,18,1
+1631,Kathmandu,32500000,4,3,North West,16 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.5,16,6
+1632,Lalitpur,44500000,5,5,North,16 Feet / Gravelled,[''],Aana,6.5,16,1
+1633,Kathmandu,32000000,5,4,South,15 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,5.0,15,7
+1634,Kathmandu,28500000,5,0,North East,12 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.1,12,5
+1635,Kathmandu,26000000,5,3,East,12 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.3,12,7
+1636,Kathmandu,2800000,0,0,West,15 Feet / Soil Stabilized,[''],Aana,18.0,15,1
+1637,Kathmandu,9500000,4,2,West,15 Feet / Soil Stabilized,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.2,15,6
+1638,Kathmandu,400000,0,0,East,0 Feet,[''],Aana,16.0,0,1
+1639,Kathmandu,25000000,6,4,North,13 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.0,13,6
+1640,Kathmandu,17500000,5,2,South,16 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,16,6
+1644,Kathmandu,40000000,0,0,South,16 Feet / Blacktopped,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,20.0,16,8
+1646,Kathmandu,6500000,3,1,West,10 Feet / Soil Stabilized,"[""'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,2.5,10,4
+1647,Kathmandu,850000,0,0,South,13 Feet / Soil Stabilized,[''],Aana,4.3,13,1
+1648,Kathmandu,1350000,0,0,East,14 Feet,"[""'Water Supply'""]",Aana,12.0,14,1
+1649,Kathmandu,12500000,3,1,North East,13 Feet / Gravelled,[''],Aana,3.0,13,1
+1652,Kathmandu,6000000,0,0,East,13 Feet,[''],Aana,4.5,13,1
+1653,Kathmandu,70000000,7,5,East,12 Feet / Blacktopped,"[""'Lawn'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Garden'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,15.0,12,7
+1656,Lalitpur,14200000,2,1,East,20 Feet / Gravelled,[''],Aana,3.5,20,1
+1662,Lalitpur,1400000,0,0,South,23 Feet,[''],Aana,7.0,23,1
+1665,Kathmandu,30000000,0,0,South East,10 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,6.0,10,5
+1666,Kathmandu,12800000,2,1,West,12 Feet / Gravelled,"[""'Water Supply'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Water Tank'""]",Aana,3.2,12,5
+1667,Kathmandu,25000000,0,0,West,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.5,13,5
+1668,Kathmandu,12500000,0,0,East,10 Feet,"[""'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.25,10,4
+1669,Kathmandu,4500000,0,0,North West,15 Feet,[''],Aana,5.0,15,1
+1670,Kathmandu,23000000,0,0,South,12 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,12,5
+1671,Kathmandu,15000000,0,0,South East,20 Feet,"[""'Drainage'"", "" 'Water Tank'""]",Aana,2.0,20,2
+1673,Kathmandu,25000000,0,0,South East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,13,5
+1674,Pokhara,2300000,0,0,South,15 Feet / Blacktopped,[''],Aana,5.0,15,1
+1677,Kathmandu,39000000,9,4,East,11 Meter,"[""'Balcony'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,3.0,11,5
+1681,Kathmandu,1650000,0,0,North,20 Feet / Soil Stabilized,[''],Aana,5.2,20,1
+1682,Lalitpur,20500000,0,0,South,10 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.0,10,7
+1683,Kathmandu,2100000,0,0,North,13 Feet / Soil Stabilized,[''],Aana,4.2,13,1
+1684,Kathmandu,2100000,0,0,South,13 Feet / Gravelled,[''],Aana,4.0,13,1
+1686,Kathmandu,1650000,0,0,South,13 Feet / Soil Stabilized,[''],Aana,4.0,13,1
+1688,Kathmandu,16500000,9,3,South West,10 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,3.0,10,7
+1689,Kathmandu,2100000,0,0,North,13 Feet / Soil Stabilized,[''],Aana,4.0,13,1
+1690,Kathmandu,1600000,0,0,North,12 Feet / Gravelled,[''],Aana,4.0,12,1
+1691,Lalitpur,600000,0,0,South East,15 Feet / Soil Stabilized,[''],Aana,37.0,15,1
+1693,Pokhara,2500000,0,0,North,0 Feet,[''],Ropani,80.0,0,1
+1694,Pokhara,650000,0,0,North,0 Feet,[''],Ropani,32.0,0,1
+1695,Pokhara,12000000,0,0,North East,20 Feet / Gravelled,[''],Aana,20.0,20,1
+1697,Lalitpur,42000000,6,5,South West,0 Feet / Blacktopped,"[""'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'Water Supply'"", "" 'Water Well'"", "" 'Microwave'"", "" 'Water Tank'"", "" 'Solar Water'"", "" 'Fencing'"", "" 'Backyard'"", "" 'Frontyard'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'""]",Aana,11.0,0,15
+1699,Kathmandu,66000000,0,0,East,40 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,8.3,40,6
+1700,Lalitpur,1850000,0,0,South,20 Feet / Soil Stabilized,[''],Aana,4.0,20,1
+1702,Kathmandu,1200000,0,0,North East,20 Feet,[''],Aana,4.0,20,1
+1703,Kathmandu,17000000,4,3,East,13 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,3.1,13,7
+1704,Kathmandu,3500000,0,0,South East,20 Feet,[''],Aana,17.5,20,1
+1705,Kathmandu,13000000,3,3,South,13 Feet / Blacktopped,[''],Aana,3.2,13,1
+1706,Bhaktapur,1500000,0,0,South,20 Feet / Blacktopped,[''],Aana,5.5,20,1
+1707,Kathmandu,700000,10,10,East,8 Meter,[''],Ropani,224.0,8,1
+1708,Kathmandu,225000,4,4,West,13 Feet,[''],Ropani,32.0,13,1
+1710,Bhaktapur,19500000,10,0,East,20 Feet / Soil Stabilized,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.5,20,6
+1711,Kathmandu,2900000,0,0,South,10 Feet / Gravelled,[''],Aana,3.5,10,1
+1713,Kathmandu,1600000,0,0,South,15 Feet / Soil Stabilized,[''],Aana,34.0,15,1
+1714,Bhaktapur,1000000,0,0,North East,12 Feet / Soil Stabilized,[''],Aana,15.0,12,1
+1715,Kathmandu,1100000,0,0,North,8 Feet / Soil Stabilized,[''],Aana,14.0,8,1
+1717,Lalitpur,2250000,0,0,South,13 Feet / Soil Stabilized,[''],Aana,4.0,13,1
+1721,Kathmandu,6500000,0,0,North,20 Feet / Blacktopped,[''],Aana,5.0,20,1
+1722,Kathmandu,6700000,0,0,South West,12 Feet,[''],Aana,12.0,12,1
+1723,Kathmandu,1000000,0,0,West,20 Feet,[''],Ropani,88.0,20,1
+1724,Kathmandu,2500000,0,0,South West,13 Feet,[''],Aana,12.0,13,1
+1725,Lalitpur,2600000,0,0,South,26 Feet,[''],Aana,12.0,26,1
+1726,Lalitpur,250000,0,0,East,20 Feet,[''],Ropani,144.0,20,1
+1727,Lalitpur,2600000,0,0,North,13 Feet / Soil Stabilized,[''],Aana,5.0,13,1
+1728,Kathmandu,400000,0,0,South East,13 Feet,[''],Ropani,32.0,13,1
+1729,Lalitpur,600000,0,0,East,20 Feet,[''],Ropani,64.0,20,1
+1730,Kathmandu,65000000,5,6,North West,13 Feet,[''],Aana,12.0,13,1
+1731,Kathmandu,28000000,6,4,South,13 Feet,[''],Aana,6.5,13,1
+1734,Lalitpur,35000000,5,4,South,20 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.0,20,6
+1735,Lalitpur,70000000,5,5,South West,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Garage'"", "" 'Lawn'"", "" 'Fencing'"", "" 'Jacuzzi'"", "" 'Air Condition'"", "" 'Washing Machine'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Microwave'"", "" 'Internet'"", "" 'Water Well'"", "" 'Intercom'"", "" 'Solar Water'"", "" 'Modular Kitchen'"", "" 'Deck'"", "" 'Electricity Backup'""]",Aana,10.0,13,21
+1737,Kathmandu,80000000,6,7,South East,13 Feet,[''],Aana,14.75,13,1
+1738,Lalitpur,22500000,7,4,South West,13 Feet,[''],Aana,3.3,13,1
+1739,Lalitpur,60000000,5,5,South,20 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,10.0,20,6
+1740,Pokhara,170000000,5,8,East,8 Meter,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,32.0,8,6
+1742,Kathmandu,22700000,5,2,West,12 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.5,12,6
+1743,Kathmandu,19800000,9,0,South East,12 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.5,12,6
+1744,Kathmandu,33500000,7,3,East,14 Feet / Soil Stabilized,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,6.0,14,6
+1747,Kathmandu,52500000,0,0,West,0 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,5.0,0,7
+1749,Lalitpur,15100000,0,0,North,0 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.2,0,5
+1750,Kathmandu,25000000,6,4,West,13 Feet / Soil Stabilized,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.5,13,6
+1751,Kathmandu,17000000,4,4,North,0 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.1,0,6
+1756,Kathmandu,22500000,0,0,North,0 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.5,0,6
+1757,Kathmandu,34500000,10,0,South,6 Meter,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.2,6,7
+1763,Kathmandu,2100000,0,0,North West,22 Feet,[''],Aana,6.0,22,1
+1766,Kathmandu,4000000,0,0,South,20 Feet,[''],Aana,5.0,20,1
+1783,Kathmandu,52500000,5,4,South,13 Feet / Gravelled,"[""'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,15.0,13,9
+1785,Kathmandu,2100000,0,0,South East,20 Feet,[''],Aana,3.0,20,1
+1791,Kathmandu,150000,0,0,South East,0 Feet,"[""'Lawn'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,16.0,0,6
+1794,Kathmandu,3400000,0,0,North,20 Feet,[''],Aana,7.0,20,1
+1796,Kathmandu,20500000,7,5,South East,14 Feet / Gravelled,"[""'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,5.0,14,8
+1801,Kathmandu,31000000,8,3,South West,14 Feet / Gravelled,"[""'Balcony'"", "" 'Garden'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.0,14,6
+1805,Bhaktapur,25500000,0,0,South West,10 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.0,10,5
+1809,Kathmandu,380000,11,4,South East,12 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,16.0,12,7
+1810,Lalitpur,250000,5,3,South,15 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,20.0,15,5
+1812,Kathmandu,140000,5,4,South East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,16.0,13,6
+1814,Kathmandu,2400000,0,0,East,20 Feet / Gravelled,[''],Aana,6.0,20,1
+1815,Lalitpur,40000000,4,2,East,20 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,8.0,20,6
+1816,Kathmandu,3300000,0,0,South West,10 Feet / Concrete,[''],Aana,10.0,10,1
+1817,Kathmandu,20000000,0,0,East,12 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.2,12,7
+1822,Kathmandu,45000000,0,0,East,20 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,8.0,20,6
+1824,Kathmandu,21500000,4,3,West,4 Meter / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,4,5
+1825,Kathmandu,1200000,0,0,South East,13 Feet / Soil Stabilized,[''],Aana,11.0,13,1
+1827,Kathmandu,600000,0,0,South East,20 Feet / Soil Stabilized,[''],Aana,42.0,20,1
+1828,Lalitpur,150000,3,4,South West,0 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,8.0,0,6
+1831,Kathmandu,3300000,0,0,South,20 Feet / Soil Stabilized,[''],Aana,4.0,20,1
+1832,Kathmandu,150000,5,5,South East,15 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,7.0,15,6
+1833,Lalitpur,1500000,0,0,South East,20 Feet / Gravelled,[''],Ropani,193.76,20,1
+1834,Kathmandu,70000000,0,0,South,20 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Ropani,16.0,20,7
+1836,Kathmandu,47500000,0,0,West,16 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,8.0,16,7
+1837,Lalitpur,3500000,0,0,North,13 Feet / Blacktopped,[''],Aana,20.0,13,1
+1838,Lalitpur,550000,6,6,South West,20 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Gym'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,32.0,20,8
+1839,Lalitpur,150000,5,4,South East,13 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,13.0,13,6
+1840,Lalitpur,180000,0,0,South,15 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,15.0,15,6
+1841,Lalitpur,125000,7,4,West,13 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Well'""]",Ropani,16.0,13,8
+1848,Kathmandu,400000,0,0,South,20 Feet / Soil Stabilized,[''],Ropani,48.0,20,1
+1849,Kathmandu,3700000,0,0,South,18 Feet,[''],Aana,21.0,18,1
+1850,Kathmandu,11400000,0,0,South,13 Feet / Gravelled,"[""'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.0,13,5
+1852,Kathmandu,4000000,0,0,South East,13 Feet,[''],Aana,20.0,13,1
+1853,Kathmandu,1750000,0,0,South,32 Feet / Soil Stabilized,[''],Aana,3.0,32,1
+1854,Kathmandu,4800000,0,0,East,15 Feet,[''],Aana,8.0,15,1
+1855,Kathmandu,12000000,4,0,East,12 Feet / Soil Stabilized,[''],Aana,3.2,12,1
+1856,Bhaktapur,366666,0,0,South,13 Feet / Soil Stabilized,[''],Aana,3.0,13,1
+1857,Kathmandu,180000000,0,0,South East,13 Feet,"[""'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,56.0,13,9
+1859,Kathmandu,2700000,0,0,South,12 Feet / Soil Stabilized,[''],Aana,4.2,12,1
+1860,Bhaktapur,1050000,0,0,South East,20 Feet / Soil Stabilized,[''],Aana,14.0,20,1
+1861,Lalitpur,14500000,10,0,East,10 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.1,10,6
+1862,Kathmandu,36500000,3,4,North East,13 Feet,"[""'Air Condition'"", "" 'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,4.0,13,6
+1864,Kathmandu,1300000,0,0,South,8 Feet / Soil Stabilized,[''],Aana,4.0,8,1
+1865,Kathmandu,2000000,0,0,South East,16 Feet / Blacktopped,[''],Aana,9.0,16,1
+1866,Kathmandu,1400000,0,0,East,10 Feet / Soil Stabilized,[''],Aana,4.0,10,1
+1868,Kathmandu,24000000,7,0,South,16 Feet / Soil Stabilized,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,16,6
+1870,Kathmandu,20400000,11,0,South,20 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,20,6
+1871,Pokhara,27000000,0,0,South East,20 Feet,[''],Aana,4.5,20,1
+1872,Pokhara,30000000,0,0,North East,20 Feet,[''],Aana,4.0,20,1
+1874,Pokhara,35000000,0,0,North West,15 Feet,[''],Aana,7.0,15,1
+1879,Kathmandu,700000,0,0,South,32 Feet / Soil Stabilized,[''],Aana,4.2,32,1
+1882,Lalitpur,250000,0,0,South,12 Feet / Soil Stabilized,[''],Ropani,160.0,12,1
+1883,Kathmandu,1100000,0,0,South,20 Feet / Soil Stabilized,[''],Aana,3.2,20,1
+1884,Kathmandu,16000000,7,6,South East,14 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,3.1,14,7
+1885,Kathmandu,2700000,0,0,South,20 Feet / Soil Stabilized,[''],Aana,4.0,20,1
+1886,Lalitpur,9000000,4,1,West,10 Feet / Soil Stabilized,"[""'Water Supply'"", "" 'Water Tank'""]",Aana,3.2,10,2
+1887,Kathmandu,13000000,2,1,West,15 Feet / Soil Stabilized,"[""'TV Cable'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,15,4
+1888,Kathmandu,1800000,0,0,West,26 Feet / Soil Stabilized,[''],Aana,6.0,26,1
+1890,Kathmandu,1600000,0,0,West,26 Feet / Soil Stabilized,[''],Aana,4.0,26,1
+1891,Pokhara,25000000,0,0,South East,20 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,5.0,20,5
+1893,Bhaktapur,1800000,0,0,South,20 Feet,[''],Aana,3.2,20,1
+1895,Kathmandu,17000000,4,3,East,13 Feet / Blacktopped,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Tank'""]",Aana,3.2,13,5
+1899,Kathmandu,150000,4,4,South East,14 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,10.0,14,7
+1900,Kathmandu,500000,5,7,South East,15 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,48.0,15,6
+1901,Kathmandu,38000000,10,0,South,10 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,7.0,10,5
+1902,Lalitpur,130000,5,3,South East,4 Meter,"[""'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,8.0,4,7
+1903,Lalitpur,300000,8,6,West,0 Feet,"[""'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,48.0,0,8
+1904,Kathmandu,110000,4,4,South,12 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Washing Machine'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,12.0,12,7
+1910,Lalitpur,120000,5,3,West,20 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Washing Machine'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,11.5,20,7
+1911,Dhading,400000,0,0,South,15 Feet,[''],Ropani,1280.0,15,1
+1914,Lalitpur,150000,5,3,South East,13 Feet,"[""'Balcony'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Ropani,16.0,13,10
+1921,Nawalparasi,260000,0,0,West,20 Feet / Gravelled,[''],Aana,5.0,20,1
+1922,Kathmandu,270000,14,6,North East,20 Feet,"[""'Balcony'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,13.0,20,4
+1930,Kathmandu,200000,7,5,South West,13 Feet,[''],Aana,7.0,13,1
+1936,Kathmandu,25000000,4,3,East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,13,6
+1937,Kathmandu,59900000,5,0,North,26 Feet / Gravelled,"[""'Backyard'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Ropani,16.0,26,11
+1938,Kathmandu,29900000,10,0,East,0 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.1,0,6
+1939,Kathmandu,4200000,0,0,South East,13 Feet / Soil Stabilized,[''],Aana,8.0,13,1
+1940,Kathmandu,55000000,0,0,East,24 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,8.2,24,7
+1941,Kathmandu,26500000,4,0,West,13 Feet / Gravelled,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.5,13,6
+1943,Kathmandu,6000000,0,0,West,10 Feet / Gravelled,[''],Aana,6.0,10,1
+1944,Kathmandu,4500000,0,0,South,26 Feet / Gravelled,[''],Aana,11.0,26,1
+1946,Kathmandu,5000000,0,0,North,12 Feet,[''],Aana,6.0,12,1
+1947,Kathmandu,5000000,0,0,North,12 Feet,[''],Aana,8.0,12,1
+1948,Kathmandu,2800000,0,0,North,13 Feet / Soil Stabilized,[''],Aana,4.5,13,1
+1949,Kathmandu,38000000,8,4,North West,15 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,7.0,15,5
+1950,Kathmandu,2500000,0,0,West,12 Feet / Soil Stabilized,[''],Aana,12.0,12,1
+1952,Kathmandu,3200000,0,0,North,10 Feet / Soil Stabilized,[''],Aana,6.0,10,1
+1953,Kathmandu,2400000,0,0,West,11 Feet,[''],Aana,15.0,11,1
+1954,Kathmandu,24000000,15,5,North,20 Feet,"[""'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,3.0,20,5
+1955,Kathmandu,3200000,0,0,West,14 Feet / Gravelled,[''],Aana,6.0,14,1
+1956,Kathmandu,4200000,0,0,North,13 Feet / Gravelled,[''],Aana,7.0,13,1
+1957,Kathmandu,480000,0,0,West,15 Feet,[''],Aana,5.0,15,1
+1959,Kathmandu,3000000,0,0,East,15 Feet / Gravelled,[''],Aana,5.2,15,1
+1960,Kathmandu,3250000,0,0,West,12 Feet / Gravelled,[''],Aana,4.0,12,1
+1961,Kathmandu,3700000,0,0,South East,10 Feet / Gravelled,[''],Aana,10.0,10,1
+1962,Kathmandu,26000000,5,3,North,16 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.3,16,7
+1963,Kathmandu,29000000,6,3,South,14 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,14,6
+1965,Kathmandu,22800000,6,2,East,20 Feet,[''],Aana,4.0,20,1
+1967,Kathmandu,6000000,0,0,South,15 Feet,[''],Aana,6.5,15,1
+1968,Kathmandu,27500000,6,4,South,12 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,12,5
+1969,Kathmandu,22500000,4,3,East,12 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.13,12,5
+1970,Kathmandu,400000,4,5,South East,13 Feet,"[""'Garage'"", "" 'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Ropani,48.0,13,8
+1971,Kathmandu,15500000,7,2,West,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.5,13,6
+1972,Kathmandu,30000000,5,0,West,15 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,6.5,15,7
+1973,Kathmandu,51500000,6,3,North East,12 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,6.0,12,6
+1975,Kathmandu,45000000,11,0,South,14 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Ropani,96.0,14,7
+1976,Kathmandu,33000000,11,0,East,15 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,5.0,15,8
+1977,Kathmandu,40000000,12,0,East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,7.0,13,7
+1978,Kathmandu,18200000,9,0,South,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.1,13,6
+1980,Kathmandu,17700000,12,0,East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,3.5,13,7
+1981,Kathmandu,17000000,7,0,East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.0,13,6
+1982,Kathmandu,29800000,10,0,West,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,6.0,13,6
+1983,Kathmandu,21000000,9,0,North West,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.5,13,6
+1984,Kathmandu,34000000,6,3,South East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,6.0,13,6
+1985,Kathmandu,1450000,0,0,East,20 Feet,[''],Aana,4.0,20,1
+1987,Kathmandu,2150000,0,0,West,12 Feet,[''],Aana,4.0,12,1
+1988,Kathmandu,19900000,3,3,South West,12 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.0,12,6
+1989,Kathmandu,16800000,10,0,South West,13 Feet,"[""'Balcony'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.0,13,7
+1994,Lalitpur,12500000,3,2,South,10 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,3.0,10,7
+1997,Kathmandu,19500000,5,3,East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.2,13,6
+1998,Kathmandu,21000000,4,2,South,18 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,3.1,18,7
+1999,Kathmandu,100000000,5,2,West,20 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,10.1,20,6
+2001,Kathmandu,37000000,5,4,South West,12 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,4.0,12,7
+2003,Kathmandu,45000000,5,5,East,12 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,9.0,12,7
+2004,Kathmandu,16500000,6,3,South,12 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.0,12,6
+2006,Kathmandu,29000000,10,6,West,10 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,4.2,10,6
+2007,Kathmandu,7500000,0,0,East,20 Feet,[''],Ropani,22.4,20,1
+2008,Kathmandu,55000000,0,0,North,20 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,7.0,20,6
+2009,Kathmandu,36000000,6,4,South East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,3.2,13,7
+2010,Kathmandu,24000000,10,6,East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.2,13,6
+2011,Kathmandu,12000000,4,1,East,13 Feet,"[""'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.0,13,5
+2014,Kathmandu,15000000,3,3,South,10 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,3.2,10,6
+2015,Kathmandu,1000000,0,0,South West,26 Feet,[''],Aana,7.0,26,1
+2017,Kathmandu,20000000,4,2,East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,5.0,13,7
+2020,Kathmandu,20000000,0,0,East,26 Feet,[''],Ropani,17.76,26,1
+2021,Kathmandu,31000000,9,9,North,9 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,2.2,9,5
+2022,Kathmandu,20500000,5,4,South,16 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,2.2,16,6
+2034,Lalitpur,250000,0,0,East,20 Feet,"[""'Garage'"", "" 'Water Supply'""]",Ropani,35.2,20,2
+2048,Kathmandu,125000,5,2,East,13 Feet,"[""'Lawn'"", "" 'Garage'"", "" 'Balcony'"", "" 'Deck'"", "" 'Water Supply'""]",Aana,10.0,13,5
+2049,Lalitpur,250000,5,3,East,20 Feet,"[""'Garage'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Washing Machine'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,13.0,20,13
+2050,Kathmandu,65000000,5,6,North West,13 Feet,"[""'Lawn'"", "" 'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,12.0,13,9
+2051,Kathmandu,235000000,10,10,East,16 Feet,"[""'Air Condition'"", "" 'Balcony'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,33.0,16,9
+2052,Kathmandu,4500000,0,0,South East,20 Feet,[''],Aana,13.0,20,1
+2054,Lalitpur,950000,0,0,South,24 Feet,[''],Aana,10.0,24,1
+2055,Kathmandu,35000000,10,4,West,20 Feet,[''],Aana,4.5,20,1
+2058,Lalitpur,300000,14,5,North,13 Feet,[''],Aana,32.0,13,1
+2064,Kathmandu,49500000,7,7,South,10 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,9.0,10,7
+2066,Kathmandu,18000000,4,4,South East,20 Feet,"[""'Lawn'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,6.0,20,5
+2067,Kathmandu,6000000,0,0,South,20 Feet,[''],Aana,9.5,20,1
+2068,Lalitpur,2650000,0,0,North,13 Feet,[''],Aana,8.0,13,1
+2070,Bhaktapur,35000000,14,4,East,14 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,7.1,14,5
+2071,Kathmandu,60000000,0,0,East,13 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Tank'""]",Aana,12.0,13,5
+2072,Kathmandu,4200000,0,0,West,20 Feet,[''],Aana,22.0,20,1
+2073,Kathmandu,13000000,4,2,South,16 Feet,[''],Aana,4.8,16,1
+2074,Kathmandu,2700000,0,0,North East,13 Feet,[''],Aana,7.3,13,1
+2075,Kathmandu,2100000,0,0,North East,22 Feet,[''],Aana,6.0,22,1
+2076,Kathmandu,38000000,7,4,East,14 Feet,"[""'Balcony'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'""]",Aana,6.1,14,7
+2078,Lalitpur,2800000,0,0,South,20 Feet,[''],Aana,7.1,20,1
+2082,Bhaktapur,22500000,12,4,South,20 Feet,[''],Aana,4.0,20,1
+2096,Kathmandu,1850000,0,0,North East,15 Feet,[''],Aana,20.0,15,1
+2110,Kathmandu,400000,0,0,South,20 Feet,"[""'Balcony'"", "" 'Frontyard'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,24.0,20,5
+2111,Kathmandu,160000,4,3,South,15 Feet,"[""'Balcony'"", "" 'Frontyard'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,20.0,15,5
+2112,Lalitpur,33000000,8,7,East,10 Feet,"[""'Garage'"", "" 'Backyard'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Garden'"", "" 'TV Cable'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Well'""]",Aana,7.1,10,10
+2114,Kathmandu,250000,4,3,West,20 Feet,"[""'Balcony'"", "" 'Frontyard'"", "" 'Modular Kitchen'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Water Tank'""]",Aana,24.0,20,7
+2119,Kathmandu,350000,14,4,South,20 Feet,"[""'Garage'"", "" 'Backyard'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Water Supply'""]",Aana,35.0,20,5
+2134,Lalitpur,2800000,0,0,South,24 Feet,[''],Aana,8.0,24,1
+2135,Kathmandu,5800000,0,0,North,32 Feet,[''],Aana,54.0,32,1
+2141,Kathmandu,875000,0,0,South East,13 Feet,[''],Aana,4.0,13,1
+2144,Kathmandu,2200000,0,0,South,18 Feet,[''],Aana,7.0,18,1
+2146,Kathmandu,110000000,4,6,South East,20 Feet / Blacktopped,"[""'Lawn'"", "" 'Garage'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Deck'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Gym'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'"", "" 'Solar Water'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,17.3,20,16
+2160,Kathmandu,29000000,7,5,North,12 Feet,"[""'Lawn'"", "" 'Balcony'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Water Supply'"", "" 'Water Tank'"", "" 'Water Well'""]",Aana,5.0,12,7
+2169,Lalitpur,5500000,0,0,West,0 Feet,[''],Aana,4.0,0,1
+2170,Lalitpur,5500000,0,0,West,20 Feet,"[""'Water Supply'""]",Aana,8.0,20,1
+2178,Pokhara,80000000,5,6,East,0 Feet,[''],Aana,12.0,0,1
+2181,Pokhara,25000000,0,0,East,14 Feet,[''],Aana,14.0,14,1
+2200,Kathmandu,32500000,0,0,East,25 Feet,"[""'Garage'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Garden'"", "" 'Microwave'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,3.0,25,10
+2204,Lalitpur,6500000,4,3,North,30 Feet,"[""'Lawn'"", "" 'Garage'"", "" 'Backyard'"", "" 'Balcony'"", "" 'Deck'"", "" 'Fencing'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Modular Kitchen'"", "" 'TV Cable'"", "" 'Wifi'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,30.0,30,13
+2206,Kathmandu,500000,5,5,North East,16 Feet,"[""'Balcony'"", "" 'Frontyard'"", "" 'Garden'"", "" 'Drainage'"", "" 'Water Supply'""]",Ropani,16.0,16,5
+2207,Kathmandu,12000000,4,2,North East,13 Feet,"[""'Balcony'"", "" 'Frontyard'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,2.5,13,4
+2208,Kathmandu,27000000,5,3,East,12 Feet,"[""'Balcony'"", "" 'Frontyard'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,8.0,12,4
+2209,Kathmandu,300000,9,3,North,13 Feet,"[""'Drainage'"", "" 'Water Supply'"", "" 'Garden'"", "" 'Frontyard'"", "" 'Backyard'"", "" 'Lawn'""]",Aana,51.0,13,6
+2210,Kathmandu,72500000,5,2,East,12 Feet,"[""'Garage'"", "" 'Balcony'"", "" 'Frontyard'"", "" 'Drainage'"", "" 'Water Supply'""]",Aana,13.0,12,5
