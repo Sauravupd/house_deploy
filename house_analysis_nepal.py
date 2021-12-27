@@ -16,7 +16,7 @@ app = dash.Dash(__name__)
 app.config.suppress_callback_exceptions = True
 
 
-df =  pd.read_csv(r'C:\Users\upadh\Desktop\Notebook\house_clean7.csv')
+df =  pd.read_csv(r'C:\Users\upadh\Desktop\house\house_clean7.csv')
 
 
 
@@ -32,7 +32,7 @@ line_data = df.groupby(['City','New_Area'])['Price'].mean().reset_index()
 div_data = df.groupby(['Face'])['Price'].mean().to_frame().reset_index()
  #City vs Number of properties listed
 bar_data2 = df["City"].value_counts().to_frame().reset_index()
-bar_data2.columns=['City','Price']
+bar_data2.columns=['City','Number of properties']
  # Amenities vs Price
 line_data2 = df.groupby(['Number of Amenities','City'])['Price'].mean().reset_index()
 
@@ -43,7 +43,7 @@ bar_fig = px.bar(bar_data, x='City', y='Price', title='Total price')
 line_fig = px.scatter(df, x='New_Area', y='Price',color='City' ,range_x=[0,300],title='New Area Vs Price')
             
         
-bar3_fig = px.bar(bar_data2, x='City', y='Price', title='number of property listed in each city')
+bar3_fig = px.bar(bar_data2, x='City', y='Number of properties', title='number of property listed in each city')
 
 #road width vs price
 road_fig = px.scatter(df,x='Road_Width',y='Price',range_x=[0,80],title = 'Road Width VS Price')
