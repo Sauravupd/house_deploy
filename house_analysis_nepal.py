@@ -26,23 +26,27 @@ df =  pd.read_csv(r'C:\Users\upadh\Desktop\house\house_clean7.csv')
 
 # City vs Price
 bar_data = df.groupby(["City"])['Price'].sum().reset_index()
- # Bedroom Vs Price
-line_data = df.groupby(['Bedroom','City'])['Price'].mean().reset_index()
+ # Area Vs Price
+line_data = df.groupby(['City','New_Area'])['Price'].mean().reset_index()
  # Face Vs Price
-div_data = df.groupby(['Face'])['Price'].sum().to_frame().reset_index()
+div_data = df.groupby(['Face'])['Price'].mean().to_frame().reset_index()
  #City vs Number of properties listed
 bar_data2 = df["City"].value_counts().to_frame().reset_index()
 bar_data2.columns=['City','Price']
  # Amenities vs Price
 line_data2 = df.groupby(['Number of Amenities','City'])['Price'].mean().reset_index()
 
+
 bar_fig = px.bar(bar_data, x='City', y='Price', title='Total price')
             
             
-line_fig = px.line(line_data, x='Bedroom', y='Price',color='City' ,title='Total price')
+line_fig = px.scatter(df, x='New_Area', y='Price',color='City' ,range_x=[0,300],title='New Area Vs Price')
             
         
 bar3_fig = px.bar(bar_data2, x='City', y='Price', title='number of property listed in each city')
+
+#road width vs price
+road_fig = px.scatter(df,x='Road_Width',y='Price',range_x=[0,80],title = 'Road Width VS Price')
             
             
 bar2_fig = px.bar(div_data, x='Face', y='Price' ,title='Total price')
@@ -55,7 +59,7 @@ line_fig2 = px.line(line_data2, x='Number of Amenities', y='Price' ,color='City'
 
 
 # Application layout
-app.layout = html.Div(children=[ html.H1('Nepal Property Listing Visualization',style={'textAlign':'left','color':'#503D36','font-size':24}),
+app.layout = html.Div(children=[ html.H1('Nepal Property Listing Visualization',style={'textAlign':'center','color':'#503D36','font-size':24}),
                                 
                                     
                                 
@@ -71,7 +75,9 @@ app.layout = html.Div(children=[ html.H1('Nepal Property Listing Visualization',
                                 html.Div([
                                     html.Div([dcc.Graph(figure=bar2_fig)]),
                                     html.Div([dcc.Graph(figure=line_fig2)])
-                                ])
+                                ]),
+
+                                html.Div([dcc.Graph(figure=road_fig)])
 
 ])
                                
