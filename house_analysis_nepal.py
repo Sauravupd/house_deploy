@@ -37,19 +37,19 @@ bar_data2.columns=['City','Number of properties']
 line_data2 = df.groupby(['Number of Amenities','City'])['Price'].mean().reset_index()
 
 
-bar_fig = px.bar(bar_data, x='City', y='Price', title='Total price')
+bar_fig = px.bar(bar_data, x='City', y='Price', title='Total price',color ='City')
             
             
 line_fig = px.scatter(df, x='New_Area', y='Price',color='City' ,range_x=[0,300],title='New Area Vs Price')
             
         
-bar3_fig = px.bar(bar_data2, x='City', y='Number of properties', title='number of property listed in each city')
+bar3_fig = px.bar(bar_data2, x='City', y='Number of properties', title='number of property listed in each city',color = "City")
 
 #road width vs price
-road_fig = px.scatter(df,x='Road_Width',y='Price',range_x=[0,80],title = 'Road Width VS Price')
+road_fig = px.scatter(df,x='Road_Width',y='Price',range_x=[0,80],title = 'Road Width VS Price',color="City")
             
             
-bar2_fig = px.bar(div_data, x='Face', y='Price' ,title='Total price')
+bar2_fig = px.bar(div_data, x='Face', y='Price' ,title='Total price',color="Face")
             
             
             
