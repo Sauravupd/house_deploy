@@ -16,7 +16,7 @@ app = dash.Dash(__name__)
 app.config.suppress_callback_exceptions = True
 
 
-df =  pd.read_csv(r'C:\Users\upadh\Desktop\house\house_clean7.csv')
+df =  pd.read_csv('https://github.com/Sauravupd/Nepal-housing-data-cleaning-and-visualizaion/blob/main/house_clean7.csv?raw=True')
 
 
 
@@ -49,7 +49,7 @@ bar3_fig = px.bar(bar_data2, x='City', y='Number of properties', title='number o
 road_fig = px.scatter(df,x='Road_Width',y='Price',range_x=[0,80],title = 'Road Width VS Price',color="City")
             
             
-bar2_fig = px.bar(div_data, x='Face', y='Price' ,title='Average price',color="Face")
+bar2_fig = px.bar(div_data, x='Face', y='Price' ,title='Average price With Respect to Face',color="Face")
             
             
             
