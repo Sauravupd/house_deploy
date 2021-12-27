@@ -49,11 +49,11 @@ bar3_fig = px.bar(bar_data2, x='City', y='Number of properties', title='number o
 road_fig = px.scatter(df,x='Road_Width',y='Price',range_x=[0,80],title = 'Road Width VS Price',color="City")
             
             
-bar2_fig = px.bar(div_data, x='Face', y='Price' ,title='Total price',color="Face")
+bar2_fig = px.bar(div_data, x='Face', y='Price' ,title='Average price',color="Face")
             
             
             
-line_fig2 = px.line(line_data2, x='Number of Amenities', y='Price' ,color='City',title='Total price')
+line_fig2 = px.line(line_data2, x='Number of Amenities', y='Price' ,color='City',title='Average Price With Respect to Number of Amenities')
     
 
 
