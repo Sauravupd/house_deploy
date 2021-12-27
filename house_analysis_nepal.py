@@ -16,7 +16,7 @@ app = dash.Dash(__name__)
 app.config.suppress_callback_exceptions = True
 
 
-df =  pd.read_csv(r'C:\Users\upadh\Desktop\house\house_clean7.csv')
+df =  pd.read_csv(r'C:\Users\upadh\Desktop\Notebook\house_clean7.csv')
 
 
 
